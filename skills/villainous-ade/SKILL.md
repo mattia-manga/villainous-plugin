@@ -13,7 +13,7 @@ description: "Guida a Ade (Disney Villainous, Villainous Italia): Titani, Carro,
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi lo affronta: sezione Contrastare Ade.
-- Immagini delle carte (32, una per carta, consultabili da qualsiasi dispositivo): galleria "Carte Villainous" https://claude.ai/artifact/A7fUbMxMX6vvbwLcfxET9p#ade (con Artifact read e `path` = `cards/ade/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `ade`).
+- Immagini delle carte (32, una per carta, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/ade (singoli file: `cards/ade/<file>.jpg`; elenco in `cards/manifest.json`, chiave `ade`).
 
 ## Obiettivo e identità
 
@@ -106,4 +106,4 @@ Titani: Ydros, Arge, Lythos, Pyros, Stratos. Alleati: Cerbero, Idra, Nesso, Pena
 
 ## Scope & Limits
 
-Copre la guida (10 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della galleria, vedi link sopra). Non sostituisce il regolamento ufficiale.
+Copre la guida (10 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della cartella cards, vedi link sopra). Non sostituisce il regolamento ufficiale.

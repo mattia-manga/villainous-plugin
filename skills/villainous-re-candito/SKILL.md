@@ -13,7 +13,7 @@ description: "Guida a Re Candito (Disney Villainous, Villainous Italia): pista d
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o sezione della pista: vai a Schede carta / Luoghi.
 - Per chi lo affronta: sezione Contrastare Re Candito.
-- Immagini delle carte (32, una per carta, consultabili da qualsiasi dispositivo): galleria "Carte Villainous 2" https://claude.ai/artifact/X4TYjkXFb8AporVghtgr7U#re-candito (con Artifact read e `path` = `cards/re-candito/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `re-candito`). I file 01-03 e 30-32 sono immagini di plancia/pista, non carte.
+- Immagini delle carte (32, una per carta, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/re-candito (singoli file: `cards/re-candito/<file>.jpg`; elenco in `cards/manifest.json`, chiave `re-candito`). I file 01-03 e 30-32 sono immagini di plancia/pista, non carte.
 
 ## Obiettivo e identità
 
@@ -106,4 +106,4 @@ Alleati: Scarafoidi Canditi x2, Piloti x3, Ciambellone e Ciambellino, Aspro Bill
 
 ## Scope & Limits
 
-Copre la guida (12 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della galleria, vedi link sopra). Il costo della Tassa d'Iscrizione è variabile. Non sostituisce il regolamento ufficiale.
+Copre la guida (12 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della cartella cards, vedi link sopra). Il costo della Tassa d'Iscrizione è variabile. Non sostituisce il regolamento ufficiale.

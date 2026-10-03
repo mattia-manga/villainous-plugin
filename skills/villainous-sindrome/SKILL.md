@@ -13,7 +13,7 @@ description: "Guida a Sindrome (Disney Villainous, a cura di Villainous Italia):
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi lo affronta: sezione Contrastare Sindrome.
-- Immagini delle carte (33, una per carta, consultabili da qualsiasi dispositivo): galleria "Carte Villainous 2" https://claude.ai/artifact/X4TYjkXFb8AporVghtgr7U#sindrome (con Artifact read e `path` = `cards/sindrome/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `sindrome`). Omnidroidi: `02_p01_img.jpg` (v.8/v.9) e `03_p02_img.jpg` (v.10); Reame: `28_p11_img.jpg`-`31_p12_img.jpg`.
+- Immagini delle carte (33, una per carta, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/sindrome (singoli file: `cards/sindrome/<file>.jpg`; elenco in `cards/manifest.json`, chiave `sindrome`). Omnidroidi: `02_p01_img.jpg` (v.8/v.9) e `03_p02_img.jpg` (v.10); Reame: `28_p11_img.jpg`-`31_p12_img.jpg`.
 
 ## Obiettivo e identità
 
@@ -102,4 +102,4 @@ Cattivo: Omnidroide v.8/v.9/v.10, Telecomando, Ulteriori Modifiche x4, Guardie x
 
 ## Scope & Limits
 
-Copre la guida (12 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della galleria, vedi link sopra). Il Telecomando non ha un ritaglio leggibile, quindi il suo costo non è indicato. Non sostituisce il regolamento ufficiale.
+Copre la guida (12 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della cartella cards, vedi link sopra). Il Telecomando non ha un ritaglio leggibile, quindi il suo costo non è indicato. Non sostituisce il regolamento ufficiale.

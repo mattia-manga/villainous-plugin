@@ -13,7 +13,7 @@ description: "Guida a Rattigan (Disney Villainous, Villainous Italia): Regina Ro
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi lo affronta: sezione Contrastare Rattigan.
-- Immagini delle carte (37 file: 28 carte, più immagini di guida/Reame; consultabili da qualsiasi dispositivo): galleria "Carte Villainous 2" https://claude.ai/artifact/X4TYjkXFb8AporVghtgr7U#rattigan (con Artifact read e `path` = `cards/rattigan/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `rattigan`).
+- Immagini delle carte (37 file: 28 carte, più immagini di guida/Reame; consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/rattigan (singoli file: `cards/rattigan/<file>.jpg`; elenco in `cards/manifest.json`, chiave `rattigan`).
 
 ## Obiettivo e identità
 
@@ -106,4 +106,4 @@ Oggetti: La Regina Robot, Ingranaggi x5, Trappola Meravigliosa x2, Dirigibile, C
 
 ## Scope & Limits
 
-Copre la guida (10 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della galleria, vedi link sopra). Non sostituisce il regolamento ufficiale.
+Copre la guida (10 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della cartella cards, vedi link sopra). Non sostituisce il regolamento ufficiale.

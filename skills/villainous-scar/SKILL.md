@@ -13,7 +13,7 @@ description: "Guida a Scar (Disney Villainous, a cura di Villainous Italia): Pil
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi lo affronta: sezione Contrastare Scar.
-- Immagini delle carte (31, una per carta, consultabili da qualsiasi dispositivo): galleria "Carte Villainous 2" https://claude.ai/artifact/X4TYjkXFb8AporVghtgr7U#scar (con Artifact read e `path` = `cards/scar/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `scar`). Nota: Iena Affamata e Banzai sono solo miniature nel PDF, senza file dedicato (le prime tre immagini sono il titolo e la carta obiettivo).
+- Immagini delle carte (31, una per carta, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/scar (singoli file: `cards/scar/<file>.jpg`; elenco in `cards/manifest.json`, chiave `scar`). Nota: Iena Affamata e Banzai sono solo miniature nel PDF, senza file dedicato (le prime tre immagini sono il titolo e la carta obiettivo).
 
 ## Obiettivo e identità
 
@@ -102,4 +102,4 @@ Alleati: Iena Affamata x6, Banzai, Ed, Shenzi, Mandria Impazzita x2. Effetti: Lu
 
 ## Scope & Limits
 
-Copre la guida (9 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della galleria, vedi link sopra). Non sostituisce il regolamento ufficiale.
+Copre la guida (9 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della cartella cards, vedi link sopra). Non sostituisce il regolamento ufficiale.

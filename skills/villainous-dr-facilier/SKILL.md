@@ -10,9 +10,9 @@ Fonte: guida "Dr. Facilier – Guida completa" di Villainous Italia (8 pagine). 
 ## Come usare questa skill
 
 - Per giocare o contrastare Dr. Facilier, parti dalle sezioni Obiettivo, Regole decisionali e Contrastare, poi consulta le schede carta.
-- Le immagini delle carte sono consultabili da qualsiasi dispositivo nella galleria online: https://claude.ai/artifact/A7fUbMxMX6vvbwLcfxET9p#dr-facilier
-- Percorso immagine di una carta: `cards/dr-facilier/<file>.jpg` (chiave `dr-facilier` in `cards/manifest.json` della galleria). Esempi: `05_Oggetto_Bastone.jpg`, `07_Oggetto_Talismano.jpg`, `20_Eroe_Louis.jpg`.
-- Se l'utente chiede il testo di una carta, rispondi dalle schede qui sotto; se serve conferma visiva rimanda alla galleria.
+- Le immagini delle carte sono consultabili da qualsiasi dispositivo nella cartella `cards/` del repository: https://github.com/mattia-manga/villainous-plugin/tree/main/cards/dr-facilier
+- Percorso immagine di una carta: `cards/dr-facilier/<file>.jpg` (chiave `dr-facilier` in `cards/manifest.json` della cartella cards). Esempi: `05_Oggetto_Bastone.jpg`, `07_Oggetto_Talismano.jpg`, `20_Eroe_Louis.jpg`.
+- Se l'utente chiede il testo di una carta, rispondi dalle schede qui sotto; se serve conferma visiva rimanda alla cartella cards.
 
 ## Obiettivo e identità
 
@@ -103,4 +103,4 @@ Obiettivo → Controllare New Orleans + Talismano + Dalle Carte Saprete · Pila 
 
 ## Scope & Limits
 
-Contenuto limitato a quanto riportato nella guida di Villainous Italia; i costi di Gli Amici nell'Aldilà e Rapidità di Mano non sono leggibili e sono lasciati "-". Per il testo ufficiale esatto delle carte controlla le immagini nella galleria.
+Contenuto limitato a quanto riportato nella guida di Villainous Italia; i costi di Gli Amici nell'Aldilà e Rapidità di Mano non sono leggibili e sono lasciati "-". Per il testo ufficiale esatto delle carte controlla le immagini nella cartella cards.

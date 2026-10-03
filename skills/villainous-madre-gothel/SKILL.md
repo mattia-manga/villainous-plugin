@@ -13,7 +13,7 @@ description: "Guida a Madre Gothel (Disney Villainous, Villainous Italia): Fiduc
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi la affronta: sezione Contrastare Madre Gothel.
-- Immagini delle carte (una per carta, consultabili da qualsiasi dispositivo): galleria "Carte Villainous 2" https://claude.ai/artifact/X4TYjkXFb8AporVghtgr7U#madre-gothel (con Artifact read e `path` = `cards/madre-gothel/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `madre-gothel`). I file 01-03 e 32-37 sono immagini di pagina (plancia, Reame), non carte.
+- Immagini delle carte (una per carta, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/madre-gothel (singoli file: `cards/madre-gothel/<file>.jpg`; elenco in `cards/manifest.json`, chiave `madre-gothel`). I file 01-03 e 32-37 sono immagini di pagina (plancia, Reame), non carte.
 
 ## Obiettivo e identità
 
@@ -105,4 +105,4 @@ Alleati: Guardia Reale x5, Cavaliere Reale x2, Stabbington con la Benda, Stabbin
 
 ## Scope & Limits
 
-Copre la guida (10 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parafrasati in italiano e il Diadema/Coltello hanno testo parziale dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della galleria). Non sostituisce il regolamento ufficiale.
+Copre la guida (10 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parafrasati in italiano e il Diadema/Coltello hanno testo parziale dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della cartella cards). Non sostituisce il regolamento ufficiale.

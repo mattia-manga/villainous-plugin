@@ -10,7 +10,7 @@ Fonte: guida "Lotso – Guida completa" di Villainous Italia (11 pagine). Layout
 ## Come usare questa skill
 
 - Per giocare o contrastare Lotso parti da Obiettivo, Regole decisionali e Contrastare, poi le schede carta.
-- Immagini consultabili da qualsiasi dispositivo: https://claude.ai/artifact/A7fUbMxMX6vvbwLcfxET9p#lotso
+- Immagini consultabili da qualsiasi dispositivo: https://github.com/mattia-manga/villainous-plugin/tree/main/cards/lotso
 - Percorso: `cards/lotso/<file>.jpg` (chiave `lotso` in `cards/manifest.json`). Esempi: `08_Effetto_I_Nuovi_Giocattoli_Non_Hanno_Speranza_di_Farcela.jpg`, `22_Effetto_Andy_Ci_Sta_Cercando.jpg`. Alcuni ritagli (Rex, Buzz Guardiano, Chunk/Sparks/Twitch) sono parziali: vedi anche le immagini di pagina `*_p10/p11_img`.
 
 ## Obiettivo e identità
@@ -105,4 +105,4 @@ Obiettivo → 4 Eroi a 0 + Buzz · Piano → Sunnyside/Bimbo, Aula Bruco, colpo 
 
 ## Scope & Limits
 
-Contenuto limitato alla guida di Villainous Italia. Testi carta parafrasati dall'inglese delle immagini; verifica nella galleria. Costi/Forza di Rex, Hamm e Buzz Guardiano e i testi di Chunk/Sparks/Twitch sono letti da ritagli parziali: possibili imprecisioni.
+Contenuto limitato alla guida di Villainous Italia. Testi carta parafrasati dall'inglese delle immagini; verifica nella cartella cards. Costi/Forza di Rex, Hamm e Buzz Guardiano e i testi di Chunk/Sparks/Twitch sono letti da ritagli parziali: possibili imprecisioni.

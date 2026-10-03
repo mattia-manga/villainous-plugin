@@ -10,7 +10,7 @@ Fonte: guida "Gaston – Guida completa" di Villainous Italia (10 pagine). Layou
 ## Come usare questa skill
 
 - Per giocare o contrastare Gaston parti da Obiettivo, Regole decisionali e Contrastare, poi le schede carta.
-- Immagini consultabili da qualsiasi dispositivo: https://claude.ai/artifact/A7fUbMxMX6vvbwLcfxET9p#gaston
+- Immagini consultabili da qualsiasi dispositivo: https://github.com/mattia-manga/villainous-plugin/tree/main/cards/gaston
 - Percorso: `cards/gaston/<file>.jpg` (chiave `gaston` in `cards/manifest.json`). Esempi: `13_Effetto_Se_ne_Vada.jpg`, `27_Effetto_La_Rosa.jpg`. (Alcuni file `*_p0N_img` sono immagini di pagina, non carte; `05_Alleato_Le_Tont` e `08_Condizione_Avvenente_Quanto_Me` sono ritagli duplicati/sporchi: usa `03` e `09`.)
 
 ## Obiettivo e identità
@@ -97,4 +97,4 @@ Ostacoli → Venga Sotto la Luce, Umore, Se Ne Vada, Avvenente, D'Arque · Anti-
 
 ## Scope & Limits
 
-Contenuto limitato alla guida di Villainous Italia. Testi carta parafrasati dall'inglese delle immagini; verifica visiva nella galleria. Alcuni costi/Forza (Le Tont, D'Arque, Plebaglia, Lupi, Uova) letti dalle immagini a bassa risoluzione.
+Contenuto limitato alla guida di Villainous Italia. Testi carta parafrasati dall'inglese delle immagini; verifica visiva nella cartella cards. Alcuni costi/Forza (Le Tont, D'Arque, Plebaglia, Lupi, Uova) letti dalle immagini a bassa risoluzione.

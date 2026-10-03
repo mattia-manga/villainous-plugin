@@ -13,7 +13,7 @@ description: "Guida a Maga Magò (Disney Villainous, Villainous Italia): Trasfor
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi la affronta: sezione Contrastare Maga Magò.
-- Immagini delle carte (21, una per carta o schermata; consultabili da qualsiasi dispositivo): galleria "Carte Villainous 2" https://claude.ai/artifact/X4TYjkXFb8AporVghtgr7U#maga-mago (con Artifact read e `path` = `cards/maga-mago/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `maga-mago`). Le coppie Trasformazione di Magò / di Merlino sono in `cards/maga-mago/10_p03_img.jpg`; i luoghi in `16_p07_img.jpg`-`20_p08_img.jpg`.
+- Immagini delle carte (21, una per carta o schermata; consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/maga-mago (singoli file: `cards/maga-mago/<file>.jpg`; elenco in `cards/manifest.json`, chiave `maga-mago`). Le coppie Trasformazione di Magò / di Merlino sono in `cards/maga-mago/10_p03_img.jpg`; i luoghi in `16_p07_img.jpg`-`20_p08_img.jpg`.
 
 ## Obiettivo e identità
 
@@ -91,4 +91,4 @@ Trasformazioni di Magò: Pollo, Elefante, Drago Viola, Coccodrillo, Volpe, Rinoc
 
 ## Scope & Limits
 
-Copre la guida (8 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo, e nomi italiani delle Trasformazioni (Pollo, Bruco, ecc.) tradotti dai testi inglesi delle carte perché la guida non li riporta (verifica sulle immagini della galleria, vedi link sopra). Non sostituisce il regolamento ufficiale.
+Copre la guida (8 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo, e nomi italiani delle Trasformazioni (Pollo, Bruco, ecc.) tradotti dai testi inglesi delle carte perché la guida non li riporta (verifica sulle immagini della cartella cards, vedi link sopra). Non sostituisce il regolamento ufficiale.

@@ -13,7 +13,7 @@ description: "Guida a Shere Khan (Disney Villainous, a cura di Villainous Italia
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi lo affronta: sezione Contrastare Shere Khan.
-- Immagini delle carte (31 immagini, una per carta o elemento, consultabili da qualsiasi dispositivo): galleria "Carte Villainous 2" https://claude.ai/artifact/X4TYjkXFb8AporVghtgr7U#shere-khan (con Artifact read e `path` = `cards/shere-khan/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `shere-khan`).
+- Immagini delle carte (31 immagini, una per carta o elemento, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/shere-khan (singoli file: `cards/shere-khan/<file>.jpg`; elenco in `cards/manifest.json`, chiave `shere-khan`).
 
 ## Obiettivo e identità
 
@@ -99,4 +99,4 @@ Alleati: Scimmie x6, Kaa, Re Luigi. Effetti: Tutti Scappano x3, Piccolo e Indife
 
 ## Scope & Limits
 
-Copre la guida (10 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della galleria, vedi link sopra). Non sono un sostituto del regolamento ufficiale.
+Copre la guida (10 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della cartella cards, vedi link sopra). Non sono un sostituto del regolamento ufficiale.

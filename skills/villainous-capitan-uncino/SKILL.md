@@ -13,7 +13,7 @@ description: "Guida a Capitan Uncino (Disney Villainous, Villainous Italia): Map
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi lo affronta: sezione Contrastare Capitan Uncino.
-- Immagini delle carte (32, consultabili da qualsiasi dispositivo): galleria "Carte Villainous" https://claude.ai/artifact/A7fUbMxMX6vvbwLcfxET9p#capitan-uncino (singoli file con Artifact read, `path` = `cards/capitan-uncino/<file>.jpg`; elenco in `cards/manifest.json`, chiave `capitan-uncino`).
+- Immagini delle carte (32, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/capitan-uncino (singoli file: `cards/capitan-uncino/<file>.jpg`; elenco in `cards/manifest.json`, chiave `capitan-uncino`).
 
 ## Obiettivo e identità
 

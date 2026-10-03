@@ -13,7 +13,7 @@ description: "Guida a Tamatoa (Disney Villainous, a cura di Villainous Italia): 
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con il nome di una carta o di un luogo: usa la sezione Schede carta / Luoghi.
 - Per chi affronta Tamatoa: usa la sezione Contrastare Tamatoa.
-- Immagini delle carte (43, consultabili da qualsiasi dispositivo): galleria "Carte Villainous 3" https://claude.ai/artifact/DBruoBpWxwsrPJWntvYENR#tamatoa (con Artifact read e `path` = `cards/tamatoa/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `tamatoa`). Nota: le carte nel PDF sono stampate in inglese; le immagini includono anche le 4 plance dei luoghi e il logo.
+- Immagini delle carte (43, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/tamatoa (singoli file: `cards/tamatoa/<file>.jpg`; elenco in `cards/manifest.json`, chiave `tamatoa`). Nota: le carte nel PDF sono stampate in inglese; le immagini includono anche le 4 plance dei luoghi e il logo.
 
 ## Obiettivo e identità
 
@@ -123,4 +123,4 @@ Alleati: Bradipo, Albero, Pipistrelli x4, Pesce. Effetti Cattivo: Potere della C
 
 ## Scope & Limits
 
-Copre la guida (16 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini del PDF: "-" se assenti sulla carta, "X" per Divorarti (costo = Forza dell'Eroe); nessun valore è risultato illeggibile. Le carte nel PDF sono in inglese: i nomi italiani vengono dalla guida e i testi sono parafrasati, quindi per formulazioni esatte consulta le immagini della galleria (link sopra). Discrepanza: per Maui Insetto la guida dice che Tamatoa ridistribuisce gli Alleati, la carta dice "a caso". Non sostituisce il regolamento ufficiale. Fonte: Villainous Italia, edizione italiana.
+Copre la guida (16 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini del PDF: "-" se assenti sulla carta, "X" per Divorarti (costo = Forza dell'Eroe); nessun valore è risultato illeggibile. Le carte nel PDF sono in inglese: i nomi italiani vengono dalla guida e i testi sono parafrasati, quindi per formulazioni esatte consulta le immagini della cartella cards (link sopra). Discrepanza: per Maui Insetto la guida dice che Tamatoa ridistribuisce gli Alleati, la carta dice "a caso". Non sostituisce il regolamento ufficiale. Fonte: Villainous Italia, edizione italiana.

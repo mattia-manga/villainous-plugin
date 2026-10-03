@@ -7,7 +7,7 @@ description: "Guida Villainous Italia su Davy Jones (Disney Villainous): segnali
 **Author**: Villainous Italia | **Pages**: 12 | **Layout**: compact (entry-based) | **Generated**: 2026-10-03 | **Updated**: costi, Forza e testi ufficiali delle carte letti dalle immagini del PDF
 
 ## Come usare questa skill
-- Immagini delle carte (31, consultabili da qualsiasi dispositivo): galleria "Carte Villainous 3" https://claude.ai/artifact/DBruoBpWxwsrPJWntvYENR#davy-jones (con Artifact read e path = cards/davy-jones/<file>.jpg si leggono i singoli file; elenco in cards/manifest.json, chiave davy-jones). Le 31 immagini sono 24 carte (mazzo Cattivo e Fato), 4 luoghi del Reame e 3 immagini di pagina (segnalini Tesoro, logo).
+- Immagini delle carte (31, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/davy-jones (singoli file: `cards/davy-jones/<file>.jpg`; elenco in `cards/manifest.json`, chiave `davy-jones`). Le 31 immagini sono 24 carte (mazzo Cattivo e Fato), 4 luoghi del Reame e 3 immagini di pagina (segnalini Tesoro, logo).
 - Le carte nelle immagini sono in inglese; nomi italiani della guida nelle etichette. Costi/Forza verificati sulle immagini; "?" dove non leggibile.
 
 Use: ask about a card by its exact name, a location, or "come giocarlo / come contrastarlo". Consigli = parere dell'autore; costi/Forza/testi nelle tabelle carte = dalle immagini delle carte nel PDF (testo inglese).
@@ -43,7 +43,7 @@ Use: ask about a card by its exact name, a location, or "come giocarlo / come co
 - Scarta (almeno 2 carte in un turno) per impedirgli Sono Qui; controlla i suoi scarti per contare le Condizioni; sconfiggere Eroi con Forza 3+ abilita Lo Considero un "No".
 
 ## Carte: dati ufficiali (dalle immagini del PDF)
-Costo = gettone in alto a sinistra; Forza = in basso a sinistra. Testo originale in inglese. Verificato carta per carta sulle immagini della galleria: tutti i costi, le Forze e i testi della tabella corrispondono alle immagini (nessuna correzione necessaria; Condizioni ed Effetti Fato senza costo, Perla Nera = bonus +3 Forza). Nessun valore illeggibile.
+Costo = gettone in alto a sinistra; Forza = in basso a sinistra. Testo originale in inglese. Verificato carta per carta sulle immagini della cartella cards: tutti i costi, le Forze e i testi della tabella corrispondono alle immagini (nessuna correzione necessaria; Condizioni ed Effetti Fato senza costo, Perla Nera = bonus +3 Forza). Nessun valore illeggibile.
 
 ### Mazzo Cattivo
 
@@ -179,4 +179,4 @@ Note dai numeri: Amore di Calipso porta il Potere a 2 (il Cuore lo azzera comunq
 
 ## Scope & Limits
 
-Copre solo questa guida (12 pagine, Villainous Italia) e le 24 carte stampate al suo interno, lette dalle immagini (testo originale inglese; "Sputafuoco Bill" = Bootstrap Bill, "Evoca il Kraken!" = Wake the Kraken!). Le immagini (31: carte, luoghi, pagine) sono nella galleria "Carte Villainous 3" (vedi "Come usare questa skill"). Costi e Forza sono verificati sulle immagini; dove un valore non fosse leggibile si usa "?" / "n.d." (nessun caso in questa guida). Le icone delle azioni dei luoghi (azioni lette dalle immagini dei luoghi: coerenti con quanto elencato sopra) e i segnalini Tesoro non sono state trascritte oltre a quanto scritto dall'autore. Per regole ufficiali, controlla le carte e il regolamento.
+Copre solo questa guida (12 pagine, Villainous Italia) e le 24 carte stampate al suo interno, lette dalle immagini (testo originale inglese; "Sputafuoco Bill" = Bootstrap Bill, "Evoca il Kraken!" = Wake the Kraken!). Le immagini (31: carte, luoghi, pagine) sono nella cartella cards "Carte Villainous 3" (vedi "Come usare questa skill"). Costi e Forza sono verificati sulle immagini; dove un valore non fosse leggibile si usa "?" / "n.d." (nessun caso in questa guida). Le icone delle azioni dei luoghi (azioni lette dalle immagini dei luoghi: coerenti con quanto elencato sopra) e i segnalini Tesoro non sono state trascritte oltre a quanto scritto dall'autore. Per regole ufficiali, controlla le carte e il regolamento.

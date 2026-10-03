@@ -1400,5 +1400,2125 @@
     "label": "Immagine pagina 11"
    }
   ]
+ },
+ "madre-gothel": {
+  "name": "Madre Gothel",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "03_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "04_Alleato_Guardia_Reale.jpg",
+    "label": "Alleato - Guardia Reale (x5)"
+   },
+   {
+    "file": "05_Alleato_Cavaliere_Reale.jpg",
+    "label": "Alleato - Cavaliere Reale (x2)"
+   },
+   {
+    "file": "06_Alleato_Stabbington_con_la_Benda.jpg",
+    "label": "Alleato - Stabbington con la Benda"
+   },
+   {
+    "file": "07_Alleato_Stabbington_con_le_Basette.jpg",
+    "label": "Alleato - Stabbington con le Basette"
+   },
+   {
+    "file": "08_Effetto_Ti_Voglio_Talmente_Bene.jpg",
+    "label": "Effetto - Ti Voglio Talmente Bene (x2)"
+   },
+   {
+    "file": "09_Effetto_Sciogli_i_tuoi_Capelli.jpg",
+    "label": "Effetto - Sciogli i tuoi Capelli (x2)"
+   },
+   {
+    "file": "10_Effetto_Inganno.jpg",
+    "label": "Effetto - Inganno (x2)"
+   },
+   {
+    "file": "11_Effetto_Resta_con_Me.jpg",
+    "label": "Effetto - Resta con Me (x2)"
+   },
+   {
+    "file": "12_Effetto_Ora_mi_Trasformo_nella_Cattiva.jpg",
+    "label": "Effetto - Ora mi Trasformo nella Cattiva (x2)"
+   },
+   {
+    "file": "13_Effetto_Vendetta.jpg",
+    "label": "Effetto - Vendetta (x2)"
+   },
+   {
+    "file": "14_Effetto_Per_Me_è_Tardi_Ormai.jpg",
+    "label": "Effetto - Per Me è Tardi Ormai (x2)"
+   },
+   {
+    "file": "15_Oggetto_Diadema.jpg",
+    "label": "Oggetto - Diadema"
+   },
+   {
+    "file": "16_Oggetto_Spazzola.jpg",
+    "label": "Oggetto - Spazzola"
+   },
+   {
+    "file": "17_Oggetto_Coltello.jpg",
+    "label": "Oggetto - Coltello"
+   },
+   {
+    "file": "18_Condizione_Egocentrica.jpg",
+    "label": "Condizione - Egocentrica (x2)"
+   },
+   {
+    "file": "19_Condizione_Doppiezza.jpg",
+    "label": "Condizione - Doppiezza (x2)"
+   },
+   {
+    "file": "20_Effetto_Nel_Mio_Cuore_un_Sogno_C_è.jpg",
+    "label": "Effetto - Nel Mio Cuore un Sogno C’è (x3)"
+   },
+   {
+    "file": "21_Effetto_Vecchiaia.jpg",
+    "label": "Effetto - Vecchiaia (x2)"
+   },
+   {
+    "file": "22_Effetto_Luci_Fluttuanti.jpg",
+    "label": "Effetto - Luci Fluttuanti (x2)"
+   },
+   {
+    "file": "23_Oggetto_Padella.jpg",
+    "label": "Oggetto - Padella"
+   },
+   {
+    "file": "24_Eroe_Flynn_Rider.jpg",
+    "label": "Eroe - Flynn Rider"
+   },
+   {
+    "file": "25_Eroe_Uncino.jpg",
+    "label": "Eroe - Uncino"
+   },
+   {
+    "file": "26_Eroe_Maximus.jpg",
+    "label": "Eroe - Maximus"
+   },
+   {
+    "file": "27_Eroe_Pascal.jpg",
+    "label": "Eroe - Pascal"
+   },
+   {
+    "file": "28_Eroe_Il_Re_e_la_Regina.jpg",
+    "label": "Eroe - Il Re e la Regina"
+   },
+   {
+    "file": "29_Eroe_Rapunzel.jpg",
+    "label": "Eroe - Rapunzel"
+   },
+   {
+    "file": "30_Eroe_Piccoletto.jpg",
+    "label": "Eroe - Piccoletto"
+   },
+   {
+    "file": "31_Eroe_Ulf.jpg",
+    "label": "Eroe - Ulf"
+   },
+   {
+    "file": "32_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "33_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "34_p10_img.jpg",
+    "label": "Immagine pagina 10"
+   },
+   {
+    "file": "35_p10_img.jpg",
+    "label": "Immagine pagina 10"
+   },
+   {
+    "file": "36_p10_img.jpg",
+    "label": "Immagine pagina 10"
+   },
+   {
+    "file": "37_p10_img.jpg",
+    "label": "Immagine pagina 10"
+   }
+  ]
+ },
+ "maga-mago": {
+  "name": "Maga Magò",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "03_Effetto_Non_Sto_Imbrogliando.jpg",
+    "label": "Effetto - Non Sto Imbrogliando! (x4)"
+   },
+   {
+    "file": "04_Effetto_Battaglia_di_Cervelli.jpg",
+    "label": "Effetto - Battaglia di Cervelli (x3)"
+   },
+   {
+    "file": "05_Effetto_Detterò_Io_le_Regole.jpg",
+    "label": "Effetto - Detterò Io le Regole (x3)"
+   },
+   {
+    "file": "06_Effetto_Duello_di_Magia.jpg",
+    "label": "Effetto - Duello di Magia (x3)"
+   },
+   {
+    "file": "07_Condizione_Posso_Gonfiar_Fino_al_Camin.jpg",
+    "label": "Condizione - Posso Gonfiar Fino al Camin (x3)"
+   },
+   {
+    "file": "08_Condizione_Una_Possibilità_di_Salvezza.jpg",
+    "label": "Condizione - Una Possibilità di Salvezza (x3)"
+   },
+   {
+    "file": "09_Effetto_La_Magnifica_Splendida_Maga_Magò.jpg",
+    "label": "Effetto - La Magnifica, Splendida Maga Magò (x3)"
+   },
+   {
+    "file": "10_p03_img.jpg",
+    "label": "Immagine pagina 03"
+   },
+   {
+    "file": "11_Effetto_Anacleto.jpg",
+    "label": "Effetto - Anacleto"
+   },
+   {
+    "file": "12_Effetto_Artù_Uccello.jpg",
+    "label": "Effetto - Artù Uccello"
+   },
+   {
+    "file": "13_Effetto_Merlino_Germe.jpg",
+    "label": "Effetto - Merlino Germe"
+   },
+   {
+    "file": "14_Effetto_Il_Sapere_e_la_Saggezza.jpg",
+    "label": "Effetto - Il Sapere e la Saggezza (x4)"
+   },
+   {
+    "file": "15_Effetto_Merlino.jpg",
+    "label": "Effetto - Merlino"
+   },
+   {
+    "file": "16_p07_img.jpg",
+    "label": "Immagine pagina 07"
+   },
+   {
+    "file": "17_p07_img.jpg",
+    "label": "Immagine pagina 07"
+   },
+   {
+    "file": "18_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "19_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "20_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "21_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   }
+  ]
+ },
+ "malefica": {
+  "name": "Malefica",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "03_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "04_Maledizione_Sonno_Senza_Sogni.jpg",
+    "label": "Maledizione - Sonno Senza Sogni (x2)"
+   },
+   {
+    "file": "05_Maledizione_Foresta_di_Rovi.jpg",
+    "label": "Maledizione - Foresta di Rovi (x3)"
+   },
+   {
+    "file": "06_Maledizione_Fuoco_Verde.jpg",
+    "label": "Maledizione - Fuoco Verde (x3)"
+   },
+   {
+    "file": "07_Oggetto_Arcolaio.jpg",
+    "label": "Oggetto - Arcolaio"
+   },
+   {
+    "file": "08_Oggetto_Bastone.jpg",
+    "label": "Oggetto - Bastone"
+   },
+   {
+    "file": "09_Alleato_Corvo.jpg",
+    "label": "Alleato - Corvo"
+   },
+   {
+    "file": "10_Alleato_Scagnozzo_Gracchiante.jpg",
+    "label": "Alleato - Scagnozzo Gracchiante (x3)"
+   },
+   {
+    "file": "11_Alleato_Scagnozzo_Selvaggio.jpg",
+    "label": "Alleato - Scagnozzo Selvaggio (x3)"
+   },
+   {
+    "file": "12_Alleato_Scagnozzo_Sinistro.jpg",
+    "label": "Alleato - Scagnozzo Sinistro (x3)"
+   },
+   {
+    "file": "13_Effetto_Forma_di_Drago.jpg",
+    "label": "Effetto - Forma di Drago (x3)"
+   },
+   {
+    "file": "14_Effetto_Svanire.jpg",
+    "label": "Effetto - Svanire (x3)"
+   },
+   {
+    "file": "15_Condizione_Tirannia.jpg",
+    "label": "Condizione - Tirannia (x2)"
+   },
+   {
+    "file": "16_Condizione_Malignità.jpg",
+    "label": "Condizione - Malignità (x2)"
+   },
+   {
+    "file": "17_Effetto_C_era_una_Volta_in_un_Sogno.jpg",
+    "label": "Effetto - C’era una Volta in un Sogno (x2)"
+   },
+   {
+    "file": "18_Effetto_Spada_della_Verità.jpg",
+    "label": "Effetto - Spada della Verità (x3)"
+   },
+   {
+    "file": "19_Eroe_Aurora.jpg",
+    "label": "Eroe - Aurora"
+   },
+   {
+    "file": "20_Eroe_Fauna.jpg",
+    "label": "Eroe - Fauna"
+   },
+   {
+    "file": "21_Eroe_Flora.jpg",
+    "label": "Eroe - Flora"
+   },
+   {
+    "file": "22_Eroe_Serena.jpg",
+    "label": "Eroe - Serena"
+   },
+   {
+    "file": "23_Eroe_Re_Stefano.jpg",
+    "label": "Eroe - Re Stefano"
+   },
+   {
+    "file": "24_Eroe_Re_Uberto.jpg",
+    "label": "Eroe - Re Uberto"
+   },
+   {
+    "file": "25_Eroe_Principe_Filippo.jpg",
+    "label": "Eroe - Principe Filippo"
+   },
+   {
+    "file": "26_Eroe_Guardie.jpg",
+    "label": "Eroe - Guardie (x3)"
+   },
+   {
+    "file": "27_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "28_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "29_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "30_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "31_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "32_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   }
+  ]
+ },
+ "principe-giovanni": {
+  "name": "Principe Giovanni",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_Alleato_Guardie_Rinoceronte.jpg",
+    "label": "Alleato - Guardie Rinoceronte (x3)"
+   },
+   {
+    "file": "03_Alleato_Arcieri_Lupo.jpg",
+    "label": "Alleato - Arcieri Lupo (x3)"
+   },
+   {
+    "file": "04_Alleato_Tonto.jpg",
+    "label": "Alleato - Tonto"
+   },
+   {
+    "file": "05_Alleato_Sceriffo_di_Nottingham.jpg",
+    "label": "Alleato - Sceriffo di Nottingham"
+   },
+   {
+    "file": "06_Alleato_Sir_Biss.jpg",
+    "label": "Alleato - Sir Biss"
+   },
+   {
+    "file": "07_Alleato_Crucco.jpg",
+    "label": "Alleato - Crucco"
+   },
+   {
+    "file": "08_Effetto_Bellissime_Adorabili_Tasse.jpg",
+    "label": "Effetto - Bellissime, Adorabili Tasse (x3)"
+   },
+   {
+    "file": "09_Effetto_Imprigionare.jpg",
+    "label": "Effetto - Imprigionare (x3)"
+   },
+   {
+    "file": "10_Effetto_Tendere_una_Trappola.jpg",
+    "label": "Effetto - Tendere una Trappola (x2)"
+   },
+   {
+    "file": "11_Effetto_Intimidire.jpg",
+    "label": "Effetto - Intimidire"
+   },
+   {
+    "file": "12_Oggetto_Taglia.jpg",
+    "label": "Oggetto - Taglia (x3)"
+   },
+   {
+    "file": "13_Oggetto_Arco_e_Frecce.jpg",
+    "label": "Oggetto - Arco e Frecce (x2)"
+   },
+   {
+    "file": "14_Oggetto_Freccia_Dorata.jpg",
+    "label": "Oggetto - Freccia Dorata"
+   },
+   {
+    "file": "15_Oggetto_La_Corona_di_Re_Riccardo.jpg",
+    "label": "Oggetto - La Corona di Re Riccardo"
+   },
+   {
+    "file": "16_Condizione_Codardia.jpg",
+    "label": "Condizione - Codardia (x2)"
+   },
+   {
+    "file": "17_Condizione_Avidità.jpg",
+    "label": "Condizione - Avidità (x2)"
+   },
+   {
+    "file": "18_Oggetto_Travestimento.jpg",
+    "label": "Oggetto - Travestimento (x3)"
+   },
+   {
+    "file": "19_Effetto_Rubare_ai_Ricchi.jpg",
+    "label": "Effetto - Rubare ai Ricchi (x3)"
+   },
+   {
+    "file": "20_Eroe_Robin_Hood.jpg",
+    "label": "Eroe - Robin Hood"
+   },
+   {
+    "file": "21_Eroe_Re_Riccardo.jpg",
+    "label": "Eroe - Re Riccardo"
+   },
+   {
+    "file": "22_Eroe_Little_John.jpg",
+    "label": "Eroe - Little John"
+   },
+   {
+    "file": "23_Eroe_Cantagallo.jpg",
+    "label": "Eroe - Cantagallo"
+   },
+   {
+    "file": "24_Eroe_Fra_Tac.jpg",
+    "label": "Eroe - Fra Tac"
+   },
+   {
+    "file": "25_Eroe_Lady_Cocca.jpg",
+    "label": "Eroe - Lady Cocca"
+   },
+   {
+    "file": "26_Eroe_Lady_Marian.jpg",
+    "label": "Eroe - Lady Marian"
+   },
+   {
+    "file": "27_Eroe_Saetta.jpg",
+    "label": "Eroe - Saetta"
+   },
+   {
+    "file": "28_Eroe_Tobia.jpg",
+    "label": "Eroe - Tobia"
+   },
+   {
+    "file": "29_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "30_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "31_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "32_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "33_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "34_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   }
+  ]
+ },
+ "rattigan": {
+  "name": "Rattigan",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "03_Oggetto_La_Regina_Robot.jpg",
+    "label": "Oggetto - La Regina Robot"
+   },
+   {
+    "file": "04_Oggetto_Ingranaggi.jpg",
+    "label": "Oggetto - Ingranaggi (x5)"
+   },
+   {
+    "file": "05_Oggetto_La_Trappola_Meravigliosa.jpg",
+    "label": "Oggetto - La Trappola Meravigliosa (x2)"
+   },
+   {
+    "file": "06_Oggetto_Dirigibile.jpg",
+    "label": "Oggetto - Dirigibile"
+   },
+   {
+    "file": "07_Oggetto_Campanello.jpg",
+    "label": "Oggetto - Campanello"
+   },
+   {
+    "file": "08_Oggetto_La_Lista_di_Vampirello.jpg",
+    "label": "Oggetto - La Lista di Vampirello"
+   },
+   {
+    "file": "09_Oggetto_Vesti_Regali.jpg",
+    "label": "Oggetto - Vesti Regali"
+   },
+   {
+    "file": "10_Oggetto_Utensili.jpg",
+    "label": "Oggetto - Utensili"
+   },
+   {
+    "file": "11_Oggetto_Uniforme.jpg",
+    "label": "Oggetto - Uniforme (x2)"
+   },
+   {
+    "file": "12_Alleato_Lucrezia.jpg",
+    "label": "Alleato - Lucrezia"
+   },
+   {
+    "file": "13_Alleato_Vampirello.jpg",
+    "label": "Alleato - Vampirello"
+   },
+   {
+    "file": "14_Alleato_Canaglie.jpg",
+    "label": "Alleato - Canaglie (x3)"
+   },
+   {
+    "file": "15_Alleato_Bartolomiao.jpg",
+    "label": "Alleato - Bartolomiao"
+   },
+   {
+    "file": "16_Effetto_Rapimento.jpg",
+    "label": "Effetto - Rapimento (x3)"
+   },
+   {
+    "file": "17_Effetto_La_Più_Grande_Mente_Criminale.jpg",
+    "label": "Effetto - La Più Grande Mente Criminale (x2)"
+   },
+   {
+    "file": "18_Condizione_Subdolo.jpg",
+    "label": "Condizione - Subdolo (x2)"
+   },
+   {
+    "file": "19_Condizione_Stravagante.jpg",
+    "label": "Condizione - Stravagante (x2)"
+   },
+   {
+    "file": "20_Effetto_Grido_d_Aiuto.jpg",
+    "label": "Effetto - Grido d’Aiuto (x2)"
+   },
+   {
+    "file": "21_Effetto_Sabotaggio.jpg",
+    "label": "Effetto - Sabotaggio (x2)"
+   },
+   {
+    "file": "22_Oggetto_Mongolfiera_di_Fortuna.jpg",
+    "label": "Oggetto - Mongolfiera di Fortuna"
+   },
+   {
+    "file": "23_Eroe_Basil.jpg",
+    "label": "Eroe - Basil"
+   },
+   {
+    "file": "24_Eroe_Topson.jpg",
+    "label": "Eroe - Topson"
+   },
+   {
+    "file": "25_Eroe_Flaversham.jpg",
+    "label": "Eroe - Flaversham"
+   },
+   {
+    "file": "26_Eroe_Signora_Placidia.jpg",
+    "label": "Eroe - Signora Placidia"
+   },
+   {
+    "file": "27_Eroe_Olivia.jpg",
+    "label": "Eroe - Olivia"
+   },
+   {
+    "file": "28_Eroe_Guardie_della_Regina.jpg",
+    "label": "Eroe - Guardie della Regina (x3)"
+   },
+   {
+    "file": "29_Eroe_La_Regina_dei_Topi.jpg",
+    "label": "Eroe - La Regina dei Topi"
+   },
+   {
+    "file": "30_Eroe_Ugo.jpg",
+    "label": "Eroe - Ugo"
+   },
+   {
+    "file": "31_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "32_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "33_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "34_p10_img.jpg",
+    "label": "Immagine pagina 10"
+   },
+   {
+    "file": "35_p10_img.jpg",
+    "label": "Immagine pagina 10"
+   },
+   {
+    "file": "36_p10_img.jpg",
+    "label": "Immagine pagina 10"
+   },
+   {
+    "file": "37_p10_img.jpg",
+    "label": "Immagine pagina 10"
+   }
+  ]
+ },
+ "re-candito": {
+  "name": "Re Candito",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "03_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "04_SCARAFOIDI_CANDITI_ALLEATO.jpg",
+    "label": "Scarafoidi Canditi - Alleato (x2)"
+   },
+   {
+    "file": "05_PILOTI_ALLEATO.jpg",
+    "label": "Piloti - Alleato (x3)"
+   },
+   {
+    "file": "06_CIAMBELLONE_E_CIAMBELLINO_ALLEATO.jpg",
+    "label": "Ciambellone E Ciambellino - Alleato"
+   },
+   {
+    "file": "07_ASPRO_BILL_ALLEATO.jpg",
+    "label": "Aspro Bill - Alleato"
+   },
+   {
+    "file": "08_TAFFYTA_MUTTONFUDGE_ALLEATO.jpg",
+    "label": "Taffyta Muttonfudge - Alleato"
+   },
+   {
+    "file": "09_VIA_EFFETTO.jpg",
+    "label": "Via! - Effetto (x3)"
+   },
+   {
+    "file": "10_MEMORIE_SOTTO_CHIAVE_EFFETTO.jpg",
+    "label": "Memorie Sotto Chiave - Effetto (x3)"
+   },
+   {
+    "file": "11_TURBASTICO_EFFETTO.jpg",
+    "label": "Turbastico - Effetto (x3)"
+   },
+   {
+    "file": "12_PRENDETE_QUESTI_DOLCI_EFFETTO.jpg",
+    "label": "Prendete Questi Dolci - Effetto (x2)"
+   },
+   {
+    "file": "13_NON_LE_PERMETTERÒ_DI_CORRERE_EFFETTO.jpg",
+    "label": "Non Le Permetterò Di Correre - Effetto"
+   },
+   {
+    "file": "14_TASSA_D_ISCRIZIONE_ALLA_CORSA_EFFETTO.jpg",
+    "label": "Tassa D’Iscrizione Alla Corsa - Effetto"
+   },
+   {
+    "file": "15_GLITCH_EFFETTO.jpg",
+    "label": "Glitch - Effetto (x3)"
+   },
+   {
+    "file": "16_LA_MEDAGLIA_DELL_EROE_DI_RALPH_OGGETTO.jpg",
+    "label": "La Medaglia Dell’Eroe Di Ralph - Oggetto"
+   },
+   {
+    "file": "17_FUORI_SERVIZIO_CONDIZIONE.jpg",
+    "label": "Fuori Servizio - Condizione (x2)"
+   },
+   {
+    "file": "18_IL_PIÙ_POTENTE_VIRUS_DELLA_SALA_GIOCHI_CONDIZIONE.jpg",
+    "label": "Il Più Potente Virus Della Sala Giochi - Condizione (x2)"
+   },
+   {
+    "file": "19_FELIX_AGGIUSTATUTTO_JR_EROE.jpg",
+    "label": "Felix Aggiustatutto Jr. - Eroe"
+   },
+   {
+    "file": "20_SERGENTE_TAMORA_JEAN_CALHOUN_EROE.jpg",
+    "label": "Sergente Tamora Jean Calhoun - Eroe"
+   },
+   {
+    "file": "21_VANELLOPE_VON_SCHWEETZ_EROE.jpg",
+    "label": "Vanellope Von Schweetz - Eroe"
+   },
+   {
+    "file": "22_RALPH_SPACCATUTTO_EROE.jpg",
+    "label": "Ralph Spaccatutto - Eroe"
+   },
+   {
+    "file": "23_FINALMENTE_HO_UN_VERO_CART_EFFETTO.jpg",
+    "label": "Finalmente Ho Un Vero Cart! - Effetto (x2)"
+   },
+   {
+    "file": "24_MI_HA_SOLO_GLASSATO_EFFETTO.jpg",
+    "label": "Mi Ha Solo Glassato - Effetto (x2)"
+   },
+   {
+    "file": "25_PRINCIPESSA_VANELLOPE_EFFETTO.jpg",
+    "label": "Principessa Vanellope - Effetto (x2)"
+   },
+   {
+    "file": "26_LIVELLO_IN_COSTRUZIONE_EFFETTO.jpg",
+    "label": "Livello In Costruzione - Effetto (x2)"
+   },
+   {
+    "file": "27_IL_FARO_EFFETTO.jpg",
+    "label": "Il Faro - Effetto"
+   },
+   {
+    "file": "28_LA_MEDAGLIA_DI_VANELLOPE_EFFETTO.jpg",
+    "label": "La Medaglia Di Vanellope - Effetto"
+   },
+   {
+    "file": "29_COSA_SONO_TUTTE_QUESTE_SCINTILLE_MAGICHE_EFFETTO.jpg",
+    "label": "Cosa Sono Tutte Queste Scintille Magiche? - Effetto"
+   },
+   {
+    "file": "30_p11_img.jpg",
+    "label": "Immagine pagina 11"
+   },
+   {
+    "file": "31_p12_img.jpg",
+    "label": "Immagine pagina 12"
+   },
+   {
+    "file": "32_p12_img.jpg",
+    "label": "Immagine pagina 12"
+   }
+  ]
+ },
+ "re-cornelius": {
+  "name": "Re Cornelius",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "03_Alleato_Nati_dalla_Pentola.jpg",
+    "label": "Alleato - Nati dalla Pentola (x5)"
+   },
+   {
+    "file": "04_Alleato_Rospus.jpg",
+    "label": "Alleato - Rospus"
+   },
+   {
+    "file": "05_Alleato_Cane_da_Guardia.jpg",
+    "label": "Alleato - Cane da Guardia"
+   },
+   {
+    "file": "06_Alleato_Gwythaints.jpg",
+    "label": "Alleato - Gwythaints (x2)"
+   },
+   {
+    "file": "07_Alleato_Scagnozzi_di_Re_Cornelius.jpg",
+    "label": "Alleato - Scagnozzi di Re Cornelius (x3)"
+   },
+   {
+    "file": "08_Oggetto_Soldati_Antichi.jpg",
+    "label": "Oggetto - Soldati Antichi (x5)"
+   },
+   {
+    "file": "09_Condizione_Soltanto_Pochi_Secondi_alla_Vittoria.jpg",
+    "label": "Condizione - Soltanto Pochi Secondi alla Vittoria (x2)"
+   },
+   {
+    "file": "10_Effetto_Catturati.jpg",
+    "label": "Effetto - Catturati!"
+   },
+   {
+    "file": "11_Effetto_La_Nostra_Ora_è_Arrivata.jpg",
+    "label": "Effetto - La Nostra Ora è Arrivata (x2)"
+   },
+   {
+    "file": "12_Effetto_Mostrami_la_Pentola_Magica.jpg",
+    "label": "Effetto - Mostrami la Pentola Magica (x2)"
+   },
+   {
+    "file": "13_Effetto_Visioni.jpg",
+    "label": "Effetto - Visioni (x2)"
+   },
+   {
+    "file": "14_Effetto_Non_Riuscirai_a_Scappare_Guardiano_di_Porci.jpg",
+    "label": "Effetto - Non Riuscirai a Scappare, Guardiano di Porci! (x2)"
+   },
+   {
+    "file": "15_Effetto_Noi_Abbiamo_Fatto_un_Patto.jpg",
+    "label": "Effetto - Noi Abbiamo Fatto un Patto (x2)"
+   },
+   {
+    "file": "16_Oggetto_Dyrnwyn.jpg",
+    "label": "Oggetto - Dyrnwyn"
+   },
+   {
+    "file": "17_Effetto_Il_Giorno_Fortunati_di_Gurghi.jpg",
+    "label": "Effetto - Il Giorno Fortunati di Gurghi"
+   },
+   {
+    "file": "18_Effetto_Il_Sacrificio_di_Gurghi.jpg",
+    "label": "Effetto - Il Sacrificio di Gurghi"
+   },
+   {
+    "file": "19_Effetto_Ho_Tanta_Fiducia_in_Te.jpg",
+    "label": "Effetto - Ho Tanta Fiducia in Te (x2)"
+   },
+   {
+    "file": "20_Effetto_Riuniti.jpg",
+    "label": "Effetto - Riuniti (x2)"
+   },
+   {
+    "file": "21_Eroe_Doli.jpg",
+    "label": "Eroe - Doli"
+   },
+   {
+    "file": "22_Eroe_Folletti.jpg",
+    "label": "Eroe - Folletti"
+   },
+   {
+    "file": "23_Eroe_Sospirello.jpg",
+    "label": "Eroe - Sospirello"
+   },
+   {
+    "file": "24_Eroe_Gurghi.jpg",
+    "label": "Eroe - Gurghi"
+   },
+   {
+    "file": "25_Eroe_Ewy.jpg",
+    "label": "Eroe - Ewy"
+   },
+   {
+    "file": "26_Eroe_Principessa_Ailin.jpg",
+    "label": "Eroe - Principessa Ailin"
+   },
+   {
+    "file": "27_Eroe_Taron.jpg",
+    "label": "Eroe - Taron"
+   },
+   {
+    "file": "28_Eroe_Le_Streghe_di_Morva.jpg",
+    "label": "Eroe - Le Streghe di Morva"
+   },
+   {
+    "file": "29_p10_img.jpg",
+    "label": "Immagine pagina 10"
+   },
+   {
+    "file": "30_p10_img.jpg",
+    "label": "Immagine pagina 10"
+   },
+   {
+    "file": "31_p11_img.jpg",
+    "label": "Immagine pagina 11"
+   },
+   {
+    "file": "32_p11_img.jpg",
+    "label": "Immagine pagina 11"
+   },
+   {
+    "file": "33_p11_img.jpg",
+    "label": "Immagine pagina 11"
+   }
+  ]
+ },
+ "regina-cattiva": {
+  "name": "Regina Cattiva",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "03_Effetto_Dalle_un_Morso.jpg",
+    "label": "Effetto - Dalle un Morso (x5)"
+   },
+   {
+    "file": "04_Effetto_Vi_Schiaccerò.jpg",
+    "label": "Effetto - Vi Schiaccerò (x3)"
+   },
+   {
+    "file": "05_Effetto_Schianto_di_Folgore.jpg",
+    "label": "Effetto - Schianto di Folgore (x2)"
+   },
+   {
+    "file": "06_Effetto_Magia_Nera.jpg",
+    "label": "Effetto - Magia Nera (x2)"
+   },
+   {
+    "file": "07_Oggetto_Tomi_Magici.jpg",
+    "label": "Oggetto - Tomi Magici (x2)"
+   },
+   {
+    "file": "08_Oggetto_Specchio_Magico.jpg",
+    "label": "Oggetto - Specchio Magico"
+   },
+   {
+    "file": "09_Oggetto_Scrigno.jpg",
+    "label": "Oggetto - Scrigno"
+   },
+   {
+    "file": "10_Oggetto_Trono.jpg",
+    "label": "Oggetto - Trono"
+   },
+   {
+    "file": "11_Alleato_Cacciatore.jpg",
+    "label": "Alleato - Cacciatore"
+   },
+   {
+    "file": "12_Condizione_Gelosia.jpg",
+    "label": "Condizione - Gelosia (x2)"
+   },
+   {
+    "file": "13_Condizione_Vanità.jpg",
+    "label": "Condizione - Vanità (x2)"
+   },
+   {
+    "file": "14_p05_img.jpg",
+    "label": "Immagine pagina 05"
+   },
+   {
+    "file": "15_Eroe_Mammolo.jpg",
+    "label": "Eroe - Mammolo"
+   },
+   {
+    "file": "16_Eroe_Dotto.jpg",
+    "label": "Eroe - Dotto"
+   },
+   {
+    "file": "17_Eroe_Cucciolo.jpg",
+    "label": "Eroe - Cucciolo"
+   },
+   {
+    "file": "18_Eroe_Brontolo.jpg",
+    "label": "Eroe - Brontolo"
+   },
+   {
+    "file": "19_Eroe_Gongolo.jpg",
+    "label": "Eroe - Gongolo"
+   },
+   {
+    "file": "20_Eroe_Pisolo.jpg",
+    "label": "Eroe - Pisolo"
+   },
+   {
+    "file": "21_Eroe_Eolo.jpg",
+    "label": "Eroe - Eolo"
+   },
+   {
+    "file": "22_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "23_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "24_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "25_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "26_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "27_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   }
+  ]
+ },
+ "regina-di-cuori": {
+  "name": "Regina di Cuori",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "03_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "04_Alleato_Il_Re.jpg",
+    "label": "Alleato - Il Re"
+   },
+   {
+    "file": "05_Alleato_Pinco_Panco_e_Panco_Pinco.jpg",
+    "label": "Alleato - Pinco Panco e Panco Pinco"
+   },
+   {
+    "file": "06_Effetto_Tirare.jpg",
+    "label": "Effetto - Tirare (x3)"
+   },
+   {
+    "file": "07_Effetto_Tagliategli_la_Testa.jpg",
+    "label": "Effetto - Tagliategli la Testa! (x3)"
+   },
+   {
+    "file": "08_Effetto_Per_Ordine_della_Regina.jpg",
+    "label": "Effetto - Per Ordine della Regina (x2)"
+   },
+   {
+    "file": "09_Effetto_Un_Buon_Non_Compleanno.jpg",
+    "label": "Effetto - Un Buon Non Compleanno (x2)"
+   },
+   {
+    "file": "10_Effetto_Ti_Fa_Più_Piccola.jpg",
+    "label": "Effetto - Ti Fa Più Piccola (x2)"
+   },
+   {
+    "file": "11_Oggetto_Lancia.jpg",
+    "label": "Oggetto - Lancia (x3)"
+   },
+   {
+    "file": "12_Oggetto_Orologio.jpg",
+    "label": "Oggetto - Orologio"
+   },
+   {
+    "file": "13_Condizione_Furia.jpg",
+    "label": "Condizione - Furia (x2)"
+   },
+   {
+    "file": "14_Condizione_Processo.jpg",
+    "label": "Condizione - Processo (x2)"
+   },
+   {
+    "file": "15_p05_img.jpg",
+    "label": "Immagine pagina 05"
+   },
+   {
+    "file": "16_Eroe_Il_Brucaliffo.jpg",
+    "label": "Eroe - Il Brucaliffo"
+   },
+   {
+    "file": "17_Eroe_Lo_Stregatto.jpg",
+    "label": "Eroe - Lo Stregatto"
+   },
+   {
+    "file": "18_Eroe_Capitan_Libeccio.jpg",
+    "label": "Eroe - Capitan Libeccio"
+   },
+   {
+    "file": "19_Eroe_Toperchio.jpg",
+    "label": "Eroe - Toperchio"
+   },
+   {
+    "file": "20_Eroe_Cappellaio_Matto.jpg",
+    "label": "Eroe - Cappellaio Matto"
+   },
+   {
+    "file": "21_Eroe_Il_Leprotto_Bisestile.jpg",
+    "label": "Eroe - Il Leprotto Bisestile"
+   },
+   {
+    "file": "22_Eroe_Il_Bianconiglio.jpg",
+    "label": "Eroe - Il Bianconiglio"
+   },
+   {
+    "file": "23_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "24_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "25_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "26_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "27_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "28_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   }
+  ]
+ },
+ "scar": {
+  "name": "Scar",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "03_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "04_Alleato_Ed_la_Iena.jpg",
+    "label": "Alleato - Ed la Iena"
+   },
+   {
+    "file": "05_Alleato_Shenzi_la_Iena.jpg",
+    "label": "Alleato - Shenzi la Iena"
+   },
+   {
+    "file": "06_Alleato_Mandria_Impazzita.jpg",
+    "label": "Alleato - Mandria Impazzita (x2)"
+   },
+   {
+    "file": "07_Effetto_Lunga_Vita_al_Re.jpg",
+    "label": "Effetto - Lunga Vita al Re (x4)"
+   },
+   {
+    "file": "08_Effetto_Sarò_Re.jpg",
+    "label": "Effetto - Sarò Re (x3)"
+   },
+   {
+    "file": "09_Effetto_Sussurri.jpg",
+    "label": "Effetto - Sussurri (x3)"
+   },
+   {
+    "file": "10_Effetto_Seguitemi.jpg",
+    "label": "Effetto - Seguitemi (x3)"
+   },
+   {
+    "file": "11_Effetto_Appetito_Insaziabile.jpg",
+    "label": "Effetto - Appetito Insaziabile (x2)"
+   },
+   {
+    "file": "12_Condizione_Ingiustizia.jpg",
+    "label": "Condizione - Ingiustizia (x2)"
+   },
+   {
+    "file": "13_Condizione_Regalità.jpg",
+    "label": "Condizione - Regalità (x2)"
+   },
+   {
+    "file": "14_Effetto_Hakuna_Matata.jpg",
+    "label": "Effetto - Hakuna Matata (x3)"
+   },
+   {
+    "file": "15_Oggetto_Profezia.jpg",
+    "label": "Oggetto - Profezia (x3)"
+   },
+   {
+    "file": "16_Oggetto_Bastone_di_Rafiki.jpg",
+    "label": "Oggetto - Bastone di Rafiki"
+   },
+   {
+    "file": "17_Eroe_Musafa.jpg",
+    "label": "Eroe - Musafa"
+   },
+   {
+    "file": "18_Eroe_Nala.jpg",
+    "label": "Eroe - Nala"
+   },
+   {
+    "file": "19_Eroe_Pumbaa.jpg",
+    "label": "Eroe - Pumbaa"
+   },
+   {
+    "file": "20_Eroe_Rafiki.jpg",
+    "label": "Eroe - Rafiki"
+   },
+   {
+    "file": "21_Eroe_Sarabi.jpg",
+    "label": "Eroe - Sarabi"
+   },
+   {
+    "file": "22_Eroe_Simba.jpg",
+    "label": "Eroe - Simba"
+   },
+   {
+    "file": "23_Eroe_Zazu.jpg",
+    "label": "Eroe - Zazu"
+   },
+   {
+    "file": "24_Eroe_Timon.jpg",
+    "label": "Eroe - Timon"
+   },
+   {
+    "file": "25_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "26_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "27_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "28_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "29_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "30_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "31_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   }
+  ]
+ },
+ "shere-khan": {
+  "name": "Shere Khan",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "03_SCIMMIE_ALLEATO.jpg",
+    "label": "Scimmie - Alleato (x6)"
+   },
+   {
+    "file": "04_KAA_ALLEATO.jpg",
+    "label": "Kaa - Alleato"
+   },
+   {
+    "file": "05_RE_LUIGI_ALLEATO.jpg",
+    "label": "Re Luigi - Alleato"
+   },
+   {
+    "file": "06_TUTTI_SCAPPANO_DAVANTI_A_SHERE_KHAN_EFFETTO.jpg",
+    "label": "Tutti Scappano Davanti A Shere Khan - Effetto (x3)"
+   },
+   {
+    "file": "07_PICCOLO_E_INDIFESO_EFFETTO.jpg",
+    "label": "Piccolo E Indifeso - Effetto (x3)"
+   },
+   {
+    "file": "08_SONO_IO_SHERE_KHAN_EFFETTO.jpg",
+    "label": "Sono Io, Shere Khan - Effetto (x2)"
+   },
+   {
+    "file": "09_BRAVI_BRAVI_EFFETTO.jpg",
+    "label": "Bravi! Bravi! - Effetto (x2)"
+   },
+   {
+    "file": "10_EHI_CUGINO_EFFETTO.jpg",
+    "label": "Ehi Cugino - Effetto (x2)"
+   },
+   {
+    "file": "11_SCOPRIRÀ_DI_CERTO_LE_SUE_TRACCE_EFFETTO.jpg",
+    "label": "Scoprirà Di Certo Le Sue Tracce - Effetto (x2)"
+   },
+   {
+    "file": "12_TU_MI_INFORMERAI_SUBITO_EFFETTO.jpg",
+    "label": "Tu Mi Informerai Subito - Effetto (x2)"
+   },
+   {
+    "file": "13_LE_SPIRE_DI_KAA_OGGETTO.jpg",
+    "label": "Le Spire Di Kaa - Oggetto"
+   },
+   {
+    "file": "14_GLI_OCCHI_DI_KAA_OGGETTO.jpg",
+    "label": "Gli Occhi Di Kaa - Oggetto"
+   },
+   {
+    "file": "15_MOLTO_INTERESSANTE_MAGNIFICO_CONDIZIONE.jpg",
+    "label": "Molto Interessante… Magnifico - Condizione (x2)"
+   },
+   {
+    "file": "16_SPERA_IN_ME_CONDIZIONE.jpg",
+    "label": "Spera In Me - Condizione (x2)"
+   },
+   {
+    "file": "17_BRANCO_DI_LUPI_EROE.jpg",
+    "label": "Branco Di Lupi - Eroe (x2)"
+   },
+   {
+    "file": "18_BAGHEERA_EROE.jpg",
+    "label": "Bagheera - Eroe"
+   },
+   {
+    "file": "19_BALOO_EROE.jpg",
+    "label": "Baloo - Eroe"
+   },
+   {
+    "file": "20_MOWGLI_EROE.jpg",
+    "label": "Mowgli - Eroe"
+   },
+   {
+    "file": "21_LA_PATTUGLIA_DELLA_GIUNGLA_EROE.jpg",
+    "label": "La Pattuglia Della Giungla - Eroe"
+   },
+   {
+    "file": "22_AVVOLTOI_EROE.jpg",
+    "label": "Avvoltoi - Eroe"
+   },
+   {
+    "file": "23_IL_ROSSO_FUOCO_DELL_UOMO_EFFETTO.jpg",
+    "label": "Il Rosso Fuoco Dell’Uomo - Effetto (x5)"
+   },
+   {
+    "file": "24_È_MIO_AMICO_EFFETTO.jpg",
+    "label": "È Mio Amico - Effetto (x2)"
+   },
+   {
+    "file": "25_IL_MICIO_DI_CASA_EFFETTO.jpg",
+    "label": "Il Micio Di Casa - Effetto"
+   },
+   {
+    "file": "26_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "27_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "28_p10_img.jpg",
+    "label": "Immagine pagina 10"
+   },
+   {
+    "file": "29_p10_img.jpg",
+    "label": "Immagine pagina 10"
+   },
+   {
+    "file": "30_p10_img.jpg",
+    "label": "Immagine pagina 10"
+   },
+   {
+    "file": "31_p10_img.jpg",
+    "label": "Immagine pagina 10"
+   }
+  ]
+ },
+ "sindrome": {
+  "name": "Sindrome",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "03_p02_img.jpg",
+    "label": "Immagine pagina 02"
+   },
+   {
+    "file": "04_Oggetto_Ulteriori_Modifiche.jpg",
+    "label": "Oggetto - Ulteriori Modifiche (x4)"
+   },
+   {
+    "file": "05_Alleato_Guardie.jpg",
+    "label": "Alleato - Guardie (x3)"
+   },
+   {
+    "file": "06_Alleato_Mirage.jpg",
+    "label": "Alleato - Mirage"
+   },
+   {
+    "file": "07_Alleato_Sicurezza.jpg",
+    "label": "Alleato - Sicurezza (x2)"
+   },
+   {
+    "file": "08_Alleato_Pattuglia_di_Velocipodi.jpg",
+    "label": "Alleato - Pattuglia di Velocipodi (x3)"
+   },
+   {
+    "file": "09_Effetto_Sala_delle_Torture.jpg",
+    "label": "Effetto - Sala delle Torture (x2)"
+   },
+   {
+    "file": "10_Effetto_Identificarsi_Prego.jpg",
+    "label": "Effetto - Identificarsi Prego (x2)"
+   },
+   {
+    "file": "11_Effetto_Energia_dello_Stato_Fondamentale.jpg",
+    "label": "Effetto - Energia dello Stato Fondamentale (x2)"
+   },
+   {
+    "file": "12_Condizione_15_Anni_Dopo.jpg",
+    "label": "Condizione - 15 Anni Dopo (x3)"
+   },
+   {
+    "file": "13_Condizione_Scanner_Biometrico.jpg",
+    "label": "Condizione - Scanner Biometrico (x2)"
+   },
+   {
+    "file": "14_Condizione_Non_Sei_un_Aiutante.jpg",
+    "label": "Condizione - Non Sei un Aiutante (x3)"
+   },
+   {
+    "file": "15_Condizione_Chi_è_Super_Adesso.jpg",
+    "label": "Condizione - Chi è Super Adesso? (x2)"
+   },
+   {
+    "file": "16_Oggetto_Campo_di_Forza.jpg",
+    "label": "Oggetto - Campo di Forza (x2)"
+   },
+   {
+    "file": "17_Effetto_Infiltrarsi.jpg",
+    "label": "Effetto - Infiltrarsi"
+   },
+   {
+    "file": "18_Effetto_Monologo.jpg",
+    "label": "Effetto - Monologo"
+   },
+   {
+    "file": "19_Effetto_Lavoro_di_Squadra.jpg",
+    "label": "Effetto - Lavoro di Squadra (x2)"
+   },
+   {
+    "file": "20_Effetto_Niente_Mantelli.jpg",
+    "label": "Effetto - Niente Mantelli! (x2)"
+   },
+   {
+    "file": "21_Effetto_È_Stato_Veramente_Grandioso.jpg",
+    "label": "Effetto - È Stato Veramente Grandioso"
+   },
+   {
+    "file": "22_Eroe_Flash.jpg",
+    "label": "Eroe - Flash"
+   },
+   {
+    "file": "23_Eroe_Elastigirl.jpg",
+    "label": "Eroe - Elastigirl"
+   },
+   {
+    "file": "24_Eroe_Siberius.jpg",
+    "label": "Eroe - Siberius"
+   },
+   {
+    "file": "25_Eroe_Jack_Jack.jpg",
+    "label": "Eroe - Jack-Jack"
+   },
+   {
+    "file": "26_Eroe_Mr_Incredibile.jpg",
+    "label": "Eroe - Mr. Incredibile"
+   },
+   {
+    "file": "27_Eroe_Violetta.jpg",
+    "label": "Eroe - Violetta"
+   },
+   {
+    "file": "28_p11_img.jpg",
+    "label": "Immagine pagina 11"
+   },
+   {
+    "file": "29_p11_img.jpg",
+    "label": "Immagine pagina 11"
+   },
+   {
+    "file": "30_p12_img.jpg",
+    "label": "Immagine pagina 12"
+   },
+   {
+    "file": "31_p12_img.jpg",
+    "label": "Immagine pagina 12"
+   },
+   {
+    "file": "32_p12_img.jpg",
+    "label": "Immagine pagina 12"
+   },
+   {
+    "file": "33_p12_img.jpg",
+    "label": "Immagine pagina 12"
+   }
+  ]
+ },
+ "ursula": {
+  "name": "Ursula",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "03_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "04_Oggetto_Corona.jpg",
+    "label": "Oggetto - Corona"
+   },
+   {
+    "file": "05_Oggetto_Tridente.jpg",
+    "label": "Oggetto - Tridente"
+   },
+   {
+    "file": "06_Oggetto_Calderone.jpg",
+    "label": "Oggetto - Calderone"
+   },
+   {
+    "file": "07_Alleato_Flotsam.jpg",
+    "label": "Alleato - Flotsam"
+   },
+   {
+    "file": "08_Effetto_Trasformazione.jpg",
+    "label": "Effetto - Trasformazione (x3)"
+   },
+   {
+    "file": "09_Alleato_Flotsam.jpg",
+    "label": "Alleato - Flotsam"
+   },
+   {
+    "file": "10_Effetto_Diventare_Gigantesca.jpg",
+    "label": "Effetto - Diventare Gigantesca (x3)"
+   },
+   {
+    "file": "11_Effetto_Opportunista.jpg",
+    "label": "Effetto - Opportunista (x3)"
+   },
+   {
+    "file": "12_Effetto_Vortice.jpg",
+    "label": "Effetto - Vortice (x3)"
+   },
+   {
+    "file": "13_Effetto_Divinazione.jpg",
+    "label": "Effetto - Divinazione (x2)"
+   },
+   {
+    "file": "14_Effetto_Tristi_Anime_Sole.jpg",
+    "label": "Effetto - Tristi Anime Sole"
+   },
+   {
+    "file": "15_Condizione_Arroganza.jpg",
+    "label": "Condizione - Arroganza (x2)"
+   },
+   {
+    "file": "16_Condizione_Inganno.jpg",
+    "label": "Condizione - Inganno (x2)"
+   },
+   {
+    "file": "17_p05_img.jpg",
+    "label": "Immagine pagina 05"
+   },
+   {
+    "file": "18_Eroe_Flounder.jpg",
+    "label": "Eroe - Flounder"
+   },
+   {
+    "file": "19_Eroe_Grimsby.jpg",
+    "label": "Eroe - Grimsby"
+   },
+   {
+    "file": "20_Eroe_Re_Tritone.jpg",
+    "label": "Eroe - Re Tritone"
+   },
+   {
+    "file": "21_Eroe_Max.jpg",
+    "label": "Eroe - Max"
+   },
+   {
+    "file": "22_Eroe_Scuttle.jpg",
+    "label": "Eroe - Scuttle"
+   },
+   {
+    "file": "23_Eroe_Sebastian.jpg",
+    "label": "Eroe - Sebastian"
+   },
+   {
+    "file": "24_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "25_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "26_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "27_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   }
+  ]
+ },
+ "yzma": {
+  "name": "Yzma",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_Alleato_Kronk.jpg",
+    "label": "Alleato - Kronk"
+   },
+   {
+    "file": "03_Alleato_Guardie_Imperiali.jpg",
+    "label": "Alleato - Guardie Imperiali (x3)"
+   },
+   {
+    "file": "04_Oggetto_Pugnale.jpg",
+    "label": "Oggetto - Pugnale"
+   },
+   {
+    "file": "05_Effetto_Prendeteli.jpg",
+    "label": "Effetto - Prendeteli! (x3)"
+   },
+   {
+    "file": "06_Effetto_Origliare.jpg",
+    "label": "Effetto - Origliare (x3)"
+   },
+   {
+    "file": "07_Effetto_Spiaccicare_con_un_Martello.jpg",
+    "label": "Effetto - Spiaccicare con un Martello (x3)"
+   },
+   {
+    "file": "08_Effetto_Una_Crudele_Ironia.jpg",
+    "label": "Effetto - Una Crudele Ironia (x2)"
+   },
+   {
+    "file": "09_Effetto_Finto_Funerale.jpg",
+    "label": "Effetto - Finto Funerale (x2)"
+   },
+   {
+    "file": "10_Effetto_Sonno_di_Bellezza.jpg",
+    "label": "Effetto - Sonno di Bellezza (x2)"
+   },
+   {
+    "file": "11_Effetto_Finire_l_Opera.jpg",
+    "label": "Effetto - Finire l’Opera (x2)"
+   },
+   {
+    "file": "12_Effetto_Braccio_Destro.jpg",
+    "label": "Effetto - Braccio Destro (x2)"
+   },
+   {
+    "file": "13_Effetto_La_Via_dello_Sballo.jpg",
+    "label": "Effetto - La Via dello Sballo (x2)"
+   },
+   {
+    "file": "14_Condizione_Ferocia.jpg",
+    "label": "Condizione - Ferocia (x2)"
+   },
+   {
+    "file": "15_Condizione_Superiorità.jpg",
+    "label": "Condizione - Superiorità (x2)"
+   },
+   {
+    "file": "16_p05_img.jpg",
+    "label": "Immagine pagina 05"
+   },
+   {
+    "file": "17_Eroe_Pidocchio.jpg",
+    "label": "Eroe - Pidocchio"
+   },
+   {
+    "file": "18_Eroe_Chaca.jpg",
+    "label": "Eroe - Chaca"
+   },
+   {
+    "file": "19_Eroe_Chica.jpg",
+    "label": "Eroe - Chica"
+   },
+   {
+    "file": "20_Eroe_Kuzco.jpg",
+    "label": "Eroe - Kuzco"
+   },
+   {
+    "file": "21_Eroe_Pacha.jpg",
+    "label": "Eroe - Pacha"
+   },
+   {
+    "file": "22_Eroe_Tipo.jpg",
+    "label": "Eroe - Tipo"
+   },
+   {
+    "file": "23_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "24_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "25_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "26_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "27_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "28_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "29_p08_img.jpg",
+    "label": "Immagine pagina 08"
+   },
+   {
+    "file": "30_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "31_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "32_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   },
+   {
+    "file": "33_p09_img.jpg",
+    "label": "Immagine pagina 09"
+   }
+  ]
+ },
+ "davy-jones": {
+  "name": "Davy Jones",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_LA_CIURMA_DELL_OLANDESE_VOLANTE_ALLEATO.jpg",
+    "label": "Alleato - La Ciurma dell'Olandese Volante (x5)"
+   },
+   {
+    "file": "03_SPUTAFUOCO_BILL_ALLEATO.jpg",
+    "label": "Alleato - Sputafuoco Bill"
+   },
+   {
+    "file": "04_CLANKER_ALLEATO.jpg",
+    "label": "Alleato - Clanker"
+   },
+   {
+    "file": "05_PRIMO_UFFICIALE_MACCUS_ALLEATO.jpg",
+    "label": "Alleato - Primo Ufficiale Maccus"
+   },
+   {
+    "file": "06_HADRAS_ALLEATO.jpg",
+    "label": "Alleato - Hadras"
+   },
+   {
+    "file": "07_IL_KRAKEN_ALLEATO.jpg",
+    "label": "Alleato - Il Kraken"
+   },
+   {
+    "file": "08_Temi_Tu_la_Morte_EFFETTO.jpg",
+    "label": "Effetto - Temi Tu la Morte? (x4)"
+   },
+   {
+    "file": "09_LA_CACCIA_EFFETTO.jpg",
+    "label": "Effetto - La Caccia (x3)"
+   },
+   {
+    "file": "10_AMICI_CHE_DIVENTANO_NEMICI_EFFETTO.jpg",
+    "label": "Effetto - Amici che Diventano Nemici (x2)"
+   },
+   {
+    "file": "11_LA_MACCHIA_NERA_EFFETTO.jpg",
+    "label": "Effetto - La Macchia Nera (x2)"
+   },
+   {
+    "file": "12_EVOCA_IL_KRAKEN_EFFETTO.jpg",
+    "label": "Effetto - Evoca il Kraken! (x2)"
+   },
+   {
+    "file": "13_SONO_QUI_CONDIZIONE.jpg",
+    "label": "Condizione - Sono Qui (x2)"
+   },
+   {
+    "file": "14_PARLA_WYVERN_CONDIZIONE.jpg",
+    "label": "Condizione - Parla Wyvern (x2)"
+   },
+   {
+    "file": "15_LO_CONSIDERO_UN_NO_CONDIZIONE.jpg",
+    "label": "Condizione - Lo Considero un \"No\" (x2)"
+   },
+   {
+    "file": "16_L_OLANDESE_VOLANTE_OGGETTO.jpg",
+    "label": "Oggetto - L'Olandese Volante"
+   },
+   {
+    "file": "17_ELIZABETH_SWANN_EROE.jpg",
+    "label": "Eroe - Elizabeth Swann"
+   },
+   {
+    "file": "18_JACK_SPARROW_EROE.jpg",
+    "label": "Eroe - Jack Sparrow"
+   },
+   {
+    "file": "19_JAMES_NORRINGTON_EROE.jpg",
+    "label": "Eroe - James Norrington"
+   },
+   {
+    "file": "20_L_EQUIPAGGIO_DELLA_PERLA_NERA_EROE.jpg",
+    "label": "Eroe - L'Equipaggio della Perla Nera"
+   },
+   {
+    "file": "21_WILL_TURNER_EROE.jpg",
+    "label": "Eroe - Will Turner"
+   },
+   {
+    "file": "22_L_AMORE_DI_CALIPSO_EFFETTO.jpg",
+    "label": "Effetto Fato - L'Amore di Calipso (x3)"
+   },
+   {
+    "file": "23_MALEDETTO_JACK_SPARROW_EFFETTO.jpg",
+    "label": "Effetto Fato - Maledetto Jack Sparrow (x3)"
+   },
+   {
+    "file": "24_E_DOVE_PUNTA_EFFETTO.jpg",
+    "label": "Effetto Fato - E Dove Punta? (x3)"
+   },
+   {
+    "file": "25_LA_PERLA_NERA_OGGETTO.jpg",
+    "label": "Oggetto Fato - La Perla Nera"
+   },
+   {
+    "file": "26_p11_img.jpg",
+    "label": "Immagine pagina 11"
+   },
+   {
+    "file": "27_p11_img.jpg",
+    "label": "Luogo - L'Olandese Volante"
+   },
+   {
+    "file": "28_p12_img.jpg",
+    "label": "Luogo - Ponte di Coperta"
+   },
+   {
+    "file": "29_p12_img.jpg",
+    "label": "Luogo - Alloggi di Davy Jones"
+   },
+   {
+    "file": "30_p12_img.jpg",
+    "label": "Luogo - Sabbie dell'Isola dei Relitti"
+   },
+   {
+    "file": "31_p12_img.jpg",
+    "label": "Immagine pagina 12"
+   }
+  ]
+ },
+ "tamatoa": {
+  "name": "Tamatoa",
+  "cards": [
+   {
+    "file": "01_p01_img.jpg",
+    "label": "Immagine pagina 01"
+   },
+   {
+    "file": "02_PIPISTRELLI_A_OTTO_OCCHI_ALLEATO.jpg",
+    "label": "Alleato - Pipistrelli a Otto Occhi (x4)"
+   },
+   {
+    "file": "03_MOSTRO_PESCE_ALLEATO.jpg",
+    "label": "Alleato - Mostro Pesce"
+   },
+   {
+    "file": "04_MOSTRO_BRADIPO_ALLEATO.jpg",
+    "label": "Alleato - Mostro Bradipo"
+   },
+   {
+    "file": "05_MOSTRO_ALBERO_ALLEATO.jpg",
+    "label": "Alleato - Mostro Albero"
+   },
+   {
+    "file": "06_NON_È_PROPRIO_L_ORA_DI_MAUI_EFFETTO.jpg",
+    "label": "Effetto - Non è Proprio l'Ora di Maui (x4)"
+   },
+   {
+    "file": "07_IL_POTERE_DELLA_CREAZIONE_AI_CROSTACEI_EFFETTO.jpg",
+    "label": "Effetto - Il Potere della Creazione ai Crostacei (x3)"
+   },
+   {
+    "file": "08_ESCA_EFFETTO.jpg",
+    "label": "Effetto - Esca (x2)"
+   },
+   {
+    "file": "09_CON_UNA_BELLA_CANZONE_EFFETTO.jpg",
+    "label": "Effetto - Con una Bella Canzone (x2)"
+   },
+   {
+    "file": "10_SCINTILLANTE_COME_UN_DIAMANTE_EFFETTO.jpg",
+    "label": "Effetto - Scintillante Come un Diamante (x2)"
+   },
+   {
+    "file": "11_IN_TRAPPOLA_EFFETTO.jpg",
+    "label": "Effetto - In Trappola (x2)"
+   },
+   {
+    "file": "12_DIVORARTI_È_QUEL_CHE_VOGLIO_EFFETTO.jpg",
+    "label": "Effetto - Divorarti è Quel che Voglio (x2)"
+   },
+   {
+    "file": "13_SENZA_POTERI_EFFETTO.jpg",
+    "label": "Effetto - Senza Poteri"
+   },
+   {
+    "file": "14_SI_CONFONDONO_IN_TANTI_LATTANTI_CONDIZIONE.jpg",
+    "label": "Condizione - Si Confondono in Tanti, Lattanti (x2)"
+   },
+   {
+    "file": "15_NON_SEI_COSÌ_FORTE_CONDIZIONE.jpg",
+    "label": "Condizione - Non Sei Così Forte (x2)"
+   },
+   {
+    "file": "16_AMO_DI_MAUI_OGGETTO.jpg",
+    "label": "Oggetto - Amo di Maui"
+   },
+   {
+    "file": "17_HEI_HEI_EROE.jpg",
+    "label": "Eroe (Fato) - Hei Hei"
+   },
+   {
+    "file": "18_MAUI_EROE.jpg",
+    "label": "Eroe (Fato) - Maui"
+   },
+   {
+    "file": "19_VAIANA_EROE.jpg",
+    "label": "Eroe (Fato) - Vaiana"
+   },
+   {
+    "file": "20_FUGA_EFFETTO.jpg",
+    "label": "Effetto (Fato) - Fuga (x2)"
+   },
+   {
+    "file": "21_L_ORA_DI_MAUI_EFFETTO.jpg",
+    "label": "Effetto (Fato) - L'Ora di Maui (x3)"
+   },
+   {
+    "file": "22_SONO_ANCORA_CAPOVOLTO_EFFETTO.jpg",
+    "label": "Effetto (Fato) - Sono Ancora Capovolto (x2)"
+   },
+   {
+    "file": "23_MINI_MAUI_EFFETTO.jpg",
+    "label": "Effetto (Fato) - Mini Maui"
+   },
+   {
+    "file": "24_QUALCOSA_CHE_SPLENDE_OGGETTO.jpg",
+    "label": "Oggetto (Fato) - Qualcosa che Splende (x3)"
+   },
+   {
+    "file": "25_CUORE_DI_TE_FITI_OGGETTO.jpg",
+    "label": "Oggetto (Fato) - Cuore di Te Fiti"
+   },
+   {
+    "file": "26_MAUI_INSETTO_EFFETTO.jpg",
+    "label": "Mazzo Maui - Maui Insetto"
+   },
+   {
+    "file": "27_MAUI_PESCE_EFFETTO.jpg",
+    "label": "Mazzo Maui - Maui Pesce"
+   },
+   {
+    "file": "28_MAUI_HEIHEI_EFFETTO.jpg",
+    "label": "Mazzo Maui - Maui Hei Hei"
+   },
+   {
+    "file": "29_MAUI_LUCERTOLA_EFFETTO.jpg",
+    "label": "Mazzo Maui - Maui Lucertola"
+   },
+   {
+    "file": "30_MAUI_SUINO_EFFETTO.jpg",
+    "label": "Mazzo Maui - Maui Suino"
+   },
+   {
+    "file": "31_MAUI_RENNA_EFFETTO.jpg",
+    "label": "Mazzo Maui - Maui Renna"
+   },
+   {
+    "file": "32_MAUI_STELLA_MARINA_EFFETTO.jpg",
+    "label": "Mazzo Maui - Maui Stella Marina"
+   },
+   {
+    "file": "33_MAUI_TESTA_DI_SQUALO_EFFETTO.jpg",
+    "label": "Mazzo Maui - Maui Testa di Squalo"
+   },
+   {
+    "file": "34_MAUI_SQUALO_EFFETTO.jpg",
+    "label": "Mazzo Maui - Maui Squalo"
+   },
+   {
+    "file": "35_MAUI_CODA_DI_SQUALO_EFFETTO.jpg",
+    "label": "Mazzo Maui - Maui Coda di Squalo"
+   },
+   {
+    "file": "36_p15_img.jpg",
+    "label": "Immagine pagina 15"
+   },
+   {
+    "file": "37_p15_img.jpg",
+    "label": "Effetto (Fato) - L'Ora di Maui (immagine pagina 15)"
+   },
+   {
+    "file": "38_p15_img.jpg",
+    "label": "Effetto - Il Potere della Creazione ai Crostacei (immagine pagina 15)"
+   },
+   {
+    "file": "39_p15_img.jpg",
+    "label": "Luogo - Scogliere Impossibili"
+   },
+   {
+    "file": "40_p16_img.jpg",
+    "label": "Luogo - Lalotai"
+   },
+   {
+    "file": "41_p16_img.jpg",
+    "label": "Luogo - Tana di Tamatoa"
+   },
+   {
+    "file": "42_p16_img.jpg",
+    "label": "Luogo - La Gabbia di Ossa"
+   },
+   {
+    "file": "43_p16_img.jpg",
+    "label": "Logo Villainous Italia"
+   }
+  ]
  }
 }

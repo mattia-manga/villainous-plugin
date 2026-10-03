@@ -10,7 +10,7 @@ Fonte: guida "La Matrigna – Guida completa" di Villainous Italia (10 pagine). 
 ## Come usare questa skill
 
 - Per giocare o contrastare la Matrigna parti da Obiettivo, Regole decisionali e Contrastare, poi le schede carta.
-- Immagini consultabili da qualsiasi dispositivo: https://claude.ai/artifact/A7fUbMxMX6vvbwLcfxET9p#la-matrigna
+- Immagini consultabili da qualsiasi dispositivo: https://github.com/mattia-manga/villainous-plugin/tree/main/cards/la-matrigna
 - Percorso: `cards/la-matrigna/<file>.jpg` (chiave `la-matrigna` in `cards/manifest.json`). Esempi: `10_Oggetto_Campane_Nunziali.jpg`, `19_Condizione_Stupidi_Scherzi.jpg`. La carta del Principe non ha un ritaglio dedicato (vedi immagini di pagina `*_p0N_img`). Le due carte Scarpetta di Cristallo sono `22` e `24`.
 
 ## Obiettivo e identità
@@ -97,4 +97,4 @@ Obiettivo → Invito, Sorelle col Vestito, Campane Nuziali · Difesa → Stupidi
 
 ## Scope & Limits
 
-Contenuto limitato alla guida di Villainous Italia. Testi carta parafrasati dall'inglese delle immagini; costi/Forza letti dalle immagini. I testi delle carte Condizione (C'è un'Altra Cosa, Rinchiusa) e le abilità di Cenerentola/Gas/Tobia sono parafrasati; per il testo esatto usa la galleria.
+Contenuto limitato alla guida di Villainous Italia. Testi carta parafrasati dall'inglese delle immagini; costi/Forza letti dalle immagini. I testi delle carte Condizione (C'è un'Altra Cosa, Rinchiusa) e le abilità di Cenerentola/Gas/Tobia sono parafrasati; per il testo esatto usa le immagini nella cartella cards.

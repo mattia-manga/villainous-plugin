@@ -10,7 +10,7 @@ Fonte: guida "Jafar – Guida completa" di Villainous Italia (10 pagine). Layout
 ## Come usare questa skill
 
 - Per giocare o contrastare Jafar parti da Obiettivo, Regole decisionali e Contrastare, poi le schede carta.
-- Immagini consultabili da qualsiasi dispositivo: https://claude.ai/artifact/A7fUbMxMX6vvbwLcfxET9p#jafar
+- Immagini consultabili da qualsiasi dispositivo: https://github.com/mattia-manga/villainous-plugin/tree/main/cards/jafar
 - Percorso: `cards/jafar/<file>.jpg` (chiave `jafar` in `cards/manifest.json`). Esempi: `02_Oggetto_Lampada_Magica.jpg`, `10_Effetto_Ipnotizzare.jpg`.
 
 ## Obiettivo e identità
@@ -96,4 +96,4 @@ Obiettivo → Amuleto, Lampada, Ipnotizzare Genio, Lampada al Palazzo · Traspor
 
 ## Scope & Limits
 
-Contenuto limitato alla guida di Villainous Italia. Testi carta parafrasati dall'inglese delle immagini; verifica visiva nella galleria. Il costo di Ipnotizzare è variabile (uguale alla Forza dell'Eroe).
+Contenuto limitato alla guida di Villainous Italia. Testi carta parafrasati dall'inglese delle immagini; verifica visiva nella cartella cards. Il costo di Ipnotizzare è variabile (uguale alla Forza dell'Eroe).

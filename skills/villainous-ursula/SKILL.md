@@ -13,7 +13,7 @@ description: "Guida a Ursula (Disney Villainous, a cura di Villainous Italia): C
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi la affronta: sezione Contrastare Ursula.
-- Immagini delle carte (consultabili da qualsiasi dispositivo): galleria "Carte Villainous 2" https://claude.ai/artifact/X4TYjkXFb8AporVghtgr7U#ursula (con Artifact read e `path` = `cards/ursula/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `ursula`). Contratti Vincolanti, Riprendere Forma, Arricciaspiccia, Soffia Bla-Bla, Ariel ed Eric non hanno un file singolo: compaiono nelle immagini di pagina `03_p01_img.jpg` (Contratti) e `17_p05_img.jpg` (Fato).
+- Immagini delle carte (consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/ursula (singoli file: `cards/ursula/<file>.jpg`; elenco in `cards/manifest.json`, chiave `ursula`). Contratti Vincolanti, Riprendere Forma, Arricciaspiccia, Soffia Bla-Bla, Ariel ed Eric non hanno un file singolo: compaiono nelle immagini di pagina `03_p01_img.jpg` (Contratti) e `17_p05_img.jpg` (Fato).
 
 ## Obiettivo e identità
 
@@ -101,4 +101,4 @@ Oggetti: Contratto Vincolante x6, Corona, Tridente, Calderone. Alleati: Flotsam,
 
 ## Scope & Limits
 
-Copre la guida (9 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi delle carte sono parafrasati dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della galleria, vedi link sopra). Il costo dei Contratti (2) deriva dall'esempio nel testo; costo di Calderone e Vortice letti dai ritagli. Non sostituisce il regolamento ufficiale.
+Copre la guida (9 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi delle carte sono parafrasati dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della cartella cards, vedi link sopra). Il costo dei Contratti (2) deriva dall'esempio nel testo; costo di Calderone e Vortice letti dai ritagli. Non sostituisce il regolamento ufficiale.

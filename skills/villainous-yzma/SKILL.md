@@ -13,7 +13,7 @@ description: "Guida a Yzma (Disney Villainous, a cura di Villainous Italia): Kro
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi la affronta: sezione Contrastare Yzma.
-- Immagini delle carte (una per carta, consultabili da qualsiasi dispositivo): galleria "Carte Villainous 2" https://claude.ai/artifact/X4TYjkXFb8AporVghtgr7U#yzma (con Artifact read e `path` = `cards/yzma/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `yzma`). Nella guida sono ritratte solo le carte Cattivo e gli Eroi Fato (Pidocchio, Chaca, Chica, Kuzco, Pacha, Tipo).
+- Immagini delle carte (una per carta, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/yzma (singoli file: `cards/yzma/<file>.jpg`; elenco in `cards/manifest.json`, chiave `yzma`). Nella guida sono ritratte solo le carte Cattivo e gli Eroi Fato (Pidocchio, Chaca, Chica, Kuzco, Pacha, Tipo).
 
 ## Obiettivo e identità
 

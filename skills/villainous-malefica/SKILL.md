@@ -13,7 +13,7 @@ description: "Guida a Malefica (Disney Villainous, Villainous Italia): Maledizio
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi la affronta: sezione Contrastare Malefica.
-- Immagini delle carte (32, una per carta, consultabili da qualsiasi dispositivo): galleria "Carte Villainous 2" https://claude.ai/artifact/X4TYjkXFb8AporVghtgr7U#malefica (con Artifact read e `path` = `cards/malefica/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `malefica`).
+- Immagini delle carte (32, una per carta, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/malefica (singoli file: `cards/malefica/<file>.jpg`; elenco in `cards/manifest.json`, chiave `malefica`).
 
 ## Obiettivo e identità
 
@@ -102,4 +102,4 @@ Maledizioni: Sonno Senza Sogni x2, Foresta di Rovi x3, Fuoco Verde x3. Oggetti: 
 
 ## Scope & Limits
 
-Copre la guida (9 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; il costo di Tirannia e Malignità (Condizioni) non è mostrato sulle carte. Il testo di abilità di alcune carte (Re Stefano, Re Uberto, Filippo, Aurora, Flora, Serena) è tradotto dall'inglese stampato; verifica sulle immagini della galleria. Non sostituisce il regolamento ufficiale.
+Copre la guida (9 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; il costo di Tirannia e Malignità (Condizioni) non è mostrato sulle carte. Il testo di abilità di alcune carte (Re Stefano, Re Uberto, Filippo, Aurora, Flora, Serena) è tradotto dall'inglese stampato; verifica sulle immagini della cartella cards. Non sostituisce il regolamento ufficiale.

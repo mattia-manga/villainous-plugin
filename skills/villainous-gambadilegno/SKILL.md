@@ -10,9 +10,9 @@ Fonte: guida "Gambadilegno – Guida completa" di Villainous Italia (10 pagine).
 ## Come usare questa skill
 
 - Per giocare o contrastare Gambadilegno parti da Obiettivo, Regole decisionali e Contrastare, poi le schede carta.
-- Immagini delle carte consultabili da qualsiasi dispositivo: https://claude.ai/artifact/A7fUbMxMX6vvbwLcfxET9p#gambadilegno
+- Immagini delle carte consultabili da qualsiasi dispositivo: https://github.com/mattia-manga/villainous-plugin/tree/main/cards/gambadilegno
 - Percorso: `cards/gambadilegno/<file>.jpg` (chiave `gambadilegno` in `cards/manifest.json`). Esempi: `10_Oggetto_Catorcio.jpg`, `24_Eroe_Topolino.jpg`.
-- Per il testo di una carta rispondi dalle schede; per conferma visiva rimanda alla galleria.
+- Per il testo di una carta rispondi dalle schede; per conferma visiva rimanda alla cartella cards.
 
 ## Obiettivo e identità
 
@@ -98,4 +98,4 @@ Obiettivi → tabella Obiettivo · Vittoria Totale → Giochiamo + Subdolo + Mis
 
 ## Scope & Limits
 
-Contenuto limitato alla guida di Villainous Italia. Costi/Forza letti dalle immagini; per Bandito, Misfatto e Indignazione conferma visiva nella galleria. Il testo di alcune carte Eroe è parafrasato dall'inglese delle immagini.
+Contenuto limitato alla guida di Villainous Italia. Costi/Forza letti dalle immagini; per Bandito, Misfatto e Indignazione conferma visiva nella cartella cards. Il testo di alcune carte Eroe è parafrasato dall'inglese delle immagini.

@@ -13,7 +13,7 @@ description: "Guida a Re Cornelius (Disney Villainous, Villainous Italia): Pento
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi lo affronta: sezione Contrastare Re Cornelius.
-- Immagini delle carte (33, una per carta o riquadro, consultabili da qualsiasi dispositivo): galleria "Carte Villainous 2" https://claude.ai/artifact/X4TYjkXFb8AporVghtgr7U#re-cornelius (con Artifact read e `path` = `cards/re-cornelius/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `re-cornelius`).
+- Immagini delle carte (33, una per carta o riquadro, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/re-cornelius (singoli file: `cards/re-cornelius/<file>.jpg`; elenco in `cards/manifest.json`, chiave `re-cornelius`).
 
 ## Obiettivo e identità
 
@@ -104,4 +104,4 @@ Pentola Magica, Nati dalla Pentola x5, Rospus, Cane da Guardia, Gwythaints x2, S
 
 ## Scope & Limits
 
-Copre la guida (11 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della galleria, vedi link sopra). I costi di Soltanto Pochi Secondi, Nati dalla Pentola (Forza) e gli Effetti Fato non erano leggibili. Non sostituisce il regolamento ufficiale.
+Copre la guida (11 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della cartella cards, vedi link sopra). I costi di Soltanto Pochi Secondi, Nati dalla Pentola (Forza) e gli Effetti Fato non erano leggibili. Non sostituisce il regolamento ufficiale.

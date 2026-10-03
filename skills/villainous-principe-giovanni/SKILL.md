@@ -13,7 +13,7 @@ description: "Guida al Principe Giovanni (Disney Villainous, Villainous Italia):
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi lo affronta: sezione Contrastare il Principe Giovanni.
-- Immagini delle carte (27, una per carta, consultabili da qualsiasi dispositivo): galleria "Carte Villainous 2" https://claude.ai/artifact/X4TYjkXFb8AporVghtgr7U#principe-giovanni (con Artifact read e `path` = `cards/principe-giovanni/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `principe-giovanni`).
+- Immagini delle carte (27, una per carta, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/principe-giovanni (singoli file: `cards/principe-giovanni/<file>.jpg`; elenco in `cards/manifest.json`, chiave `principe-giovanni`).
 
 ## Obiettivo e identità
 
@@ -101,4 +101,4 @@ Alleati: Guardie Rinoceronte x3, Arcieri Lupo x3, Tonto, Sceriffo di Nottingham,
 
 ## Scope & Limits
 
-Copre la guida (9 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della galleria, vedi link sopra). Non sostituisce il regolamento ufficiale.
+Copre la guida (9 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della cartella cards, vedi link sopra). Non sostituisce il regolamento ufficiale.

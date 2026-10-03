@@ -13,7 +13,7 @@ description: "Guida a Crudelia de Mon (Disney Villainous, Villainous Italia): Ge
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi la affronta: sezione Contrastare Crudelia.
-- Immagini delle carte (36, consultabili da qualsiasi dispositivo): galleria "Carte Villainous" https://claude.ai/artifact/A7fUbMxMX6vvbwLcfxET9p#crudelia-de-mon (singoli file con Artifact read, `path` = `cards/crudelia-de-mon/<file>.jpg`; elenco in `cards/manifest.json`, chiave `crudelia-de-mon`).
+- Immagini delle carte (36, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/crudelia-de-mon (singoli file: `cards/crudelia-de-mon/<file>.jpg`; elenco in `cards/manifest.json`, chiave `crudelia-de-mon`).
 
 ## Obiettivo e identità
 

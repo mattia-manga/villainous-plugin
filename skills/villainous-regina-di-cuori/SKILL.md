@@ -13,7 +13,7 @@ description: "Guida alla Regina di Cuori (Disney Villainous, Villainous Italia):
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi la affronta: sezione Contrastare la Regina di Cuori.
-- Immagini delle carte (28 file: carte singole, composite delle Guardie di Carta e del mazzo Fato, immagini del Reame; consultabili da qualsiasi dispositivo): galleria "Carte Villainous 2" https://claude.ai/artifact/X4TYjkXFb8AporVghtgr7U#regina-di-cuori (con Artifact read e `path` = `cards/regina-di-cuori/<file>.jpg` si leggono i singoli file; elenco in `cards/manifest.json`, chiave `regina-di-cuori`).
+- Immagini delle carte (28 file: carte singole, composite delle Guardie di Carta e del mazzo Fato, immagini del Reame; consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/regina-di-cuori (singoli file: `cards/regina-di-cuori/<file>.jpg`; elenco in `cards/manifest.json`, chiave `regina-di-cuori`).
 
 ## Obiettivo e identità
 
@@ -103,4 +103,4 @@ Guardie di Carta (Fiori, Quadri, Cuori, Picche x2 ciascuna). Alleati: Il Re, Pin
 
 ## Scope & Limits
 
-Copre la guida (9 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della galleria, vedi link sopra). Le carte Guardia di Carta e le carte Fato Effetto sono in immagini composite (file 02, 03 e 15); costi delle Guardie e testi di Furia/Processo/Stregatto/Libeccio/Brucaliffo parzialmente dedotti. Non sostituisce il regolamento ufficiale.
+Copre la guida (9 pagine, Villainous Italia) e le carte stampate al suo interno. Costi/Forza letti dalle immagini; i testi inglesi sono parziali dove il ritaglio era piccolo (verifica sulla carta o sulle immagini della cartella cards, vedi link sopra). Le carte Guardia di Carta e le carte Fato Effetto sono in immagini composite (file 02, 03 e 15); costi delle Guardie e testi di Furia/Processo/Stregatto/Libeccio/Brucaliffo parzialmente dedotti. Non sostituisce il regolamento ufficiale.

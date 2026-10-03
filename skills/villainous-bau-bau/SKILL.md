@@ -13,7 +13,7 @@ description: "Guida al Bau Bau (Oogie Boogie, Disney Villainous, Villainous Ital
 - Senza argomenti: applica le regole decisionali qui sotto.
 - Con nome carta o luogo: vai a Schede carta / Luoghi.
 - Per chi lo affronta: sezione Contrastare il Bau Bau.
-- Immagini delle carte (32, consultabili da qualsiasi dispositivo): galleria "Carte Villainous" https://claude.ai/artifact/A7fUbMxMX6vvbwLcfxET9p#bau-bau (singoli file con Artifact read, `path` = `cards/bau-bau/<file>.jpg`; elenco in `cards/manifest.json`, chiave `bau-bau`).
+- Immagini delle carte (32, consultabili da qualsiasi dispositivo): cartella del repository https://github.com/mattia-manga/villainous-plugin/tree/main/cards/bau-bau (singoli file: `cards/bau-bau/<file>.jpg`; elenco in `cards/manifest.json`, chiave `bau-bau`).
 
 ## Obiettivo e identità
 
